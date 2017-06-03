@@ -1,1 +1,0 @@
-navigator.webkitGetUserMedia({video:!0},function(e){document.getElementById("camera").src=URL.createObjectURL(e)},function(){alert("could not connect stream")});

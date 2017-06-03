@@ -5,24 +5,49 @@
 		<title>Start</title>
 		<style media="screen">
 			body {
-				@import url('http://fonts.googleapis.com/css?family=Merriweather:100,200,300,400,400i,700,700i');
-				text-align: center;
-				font-family: 'Merriweather', sans-serif;
+				font-family: 'ariel', sans-serif;
 			}
-			h1 {
+			header {
+				text-align: center;
 				margin-top: 80px;
+			}
+			.info {
+				background-color: #FFF793;
+				margin: 0 auto;
+				width: 400px;
+			}
+			h3 {
+				text-align: center;
+			}
+			p {
+				padding: 4px;
 			}
 		</style>
 	</head>
 	<body>
-		<h1>English Extension 2 Submission</h1>
-		<h2>28771800</h2>
-		<a href="pages/hitch_intro.html">Start</a>
+		<header>
+			<h1>English Extension 2 Submission</h1>
+			<h2>28771800</h2>
+			<a href="pages/hitch_intro.html">Start</a>
+		</header>
+
+		<div class="info">
+			<h3>Info For Testers</h3>
+			<p>Hi there!<br> First up, thanks so much for testing this project.</p>
+			<p>This version is <strong id='version'></strong></p>
+			<p>Your operating system is <strong><span id="type"></span> [<span id='system'></span> <span id='osversion'></span>]</strong></p>
+			<p>Please record the time you start the experience.<br>If you feel that it is becoming too repetitious, you get bored or your attention span shrinks to that of a goldfish, record the time you finish and press COMMAND-E to start the finishing scene.<br>The finishing scene will automatically start at 18 minutes (it should cut off your reading experience)</p>
+			<p>If you experience issues with navigation, something doesn't look right on screen or have general comments about a particular bit, please screenshot it and record the time at that moment.</p>
+		</div>
 
 		<script type="text/javascript">
-			var os = require('os')
-			document.getElementById('plarform').innerHTML = os.platform()
-			document.getElementById('version').innerHTML = os.release()
+			const project = require('./package.json')
+			const os = require('os')
+			document.getElementById('version').innerHTML = project.version
+			document.getElementById('type').innerHTML = os.type()
+			document.getElementById('system').innerHTML = os.platform()
+			document.getElementById('osversion').innerHTML = os.release()
+			console.log(project.version)
 		</script>
 	</body>
 </html>

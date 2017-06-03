@@ -1,7 +1,7 @@
 {
   "name": "theplatform",
   "productName": "The Platform",
-  "version": "0.0.0",
+  "version": "0.2.7",
   "description": "> My superb app",
   "license": "MIT",
   "repository": {
@@ -15,12 +15,16 @@
     "build": "electron-packager . --out=dist --asar --overwrite --all"
   },
   "dependencies": {
-    "electron-debug": "^1.0.0"
+    "electron-debug": "^1.0.0",
+    "howler": "^2.0.3",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1",
+    "scrollmagic": "^2.0.5"
   },
   "devDependencies": {
     "devtron": "^1.1.0",
+    "electron": "^1.6.10",
     "electron-packager": "^8.0.0",
-    "electron": "^1.6.6",
     "xo": "^0.18.0"
   },
   "xo": {

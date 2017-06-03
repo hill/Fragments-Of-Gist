@@ -163,139 +163,67 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/js\/debug.addIndicators.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/debug.addIndicators-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/howler.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/howler-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/jquery.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/jquery.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/main-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/main-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/assets\/js\/main.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/main-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
 		},
-	"\/assets\/js\/page-specific\/camera-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/page-specific\/camera-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/assets\/js\/page-specific\/camera.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/page-specific\/camera-min.js",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/page-specific\/hitch_intro-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/page-specific\/hitch_intro-min-min.js",
-		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/page-specific\/hitch_intro.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/page-specific\/hitch_intro-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/plugins\/animation.gsap.min.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/animation.gsap.min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/plugins\/animation.velocity.min.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/animation.velocity.min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/plugins\/debug.addIndicators.min.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/debug.addIndicators.min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/js\/plugins\/jquery.ScrollMagic.min.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/jquery.ScrollMagic.min-min.js",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/ScrollMagic.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/ScrollMagic.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/TweenMax.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/TweenMax.min-min.js",
-		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/assets\/sounds\/Hitchcock_presents.mp3": {
@@ -318,11 +246,11 @@
 		},
 	"\/index.js": {
 		"ft": 64,
-		"mi": 1,
-		"oA": 0,
+		"mi": 0,
+		"oA": 1,
 		"oAP": "\/index-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/node_modules": {
@@ -2133,15 +2061,15 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"minifyOutput": 0,
+		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {

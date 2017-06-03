@@ -2,8 +2,8 @@ const remote = require("electron").remote;
 const $ = require('jquery');
 const ScrollMagic = require('scrollmagic');
 require('scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators');
-// const TweenMax = require('gsap').TweenMax;
 const howler = require('howler');
+const moment = require('moment');
 
 // Shortcuts
 document.addEventListener("keydown", function(event){
@@ -45,7 +45,7 @@ $(".fade").each(function(){
     $(ev.target.triggerElement()).removeClass('out');
   })
   .on("leave", function(ev){$(ev.target.triggerElement()).addClass('out');})
-  .addIndicators()
+  //.addIndicators()
   .addTo(controller);
 
 });
