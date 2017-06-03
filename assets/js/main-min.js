@@ -1,4 +1,11 @@
 const remote = require("electron").remote;
+const $ = require('jquery');
+const ScrollMagic = require('ScrollMagic');
+// const TweenMax = require('gsap').TweenMax;
+// const addIndicators = require('debug.addIndicators.js');
+// const howler = require('howler');
+
+
 
 document.addEventListener("keydown", function(event){
 
