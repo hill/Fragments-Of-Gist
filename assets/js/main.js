@@ -1,12 +1,11 @@
 const remote = require("electron").remote;
 const $ = require('jquery');
-const ScrollMagic = require('ScrollMagic');
+const ScrollMagic = require('scrollmagic');
+require('scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators');
 // const TweenMax = require('gsap').TweenMax;
-// const addIndicators = require('debug.addIndicators.js');
-// const howler = require('howler');
+const howler = require('howler');
 
-
-
+// Shortcuts
 document.addEventListener("keydown", function(event){
 
   switch (event.key) {
