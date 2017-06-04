@@ -156,43 +156,62 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     transform: rotate(3deg);
   }
 }
-h1 {
-  font-size: 90px;
-  line-height: 1.1;
+html,
+body {
+  background: #DBD4C7;
 }
-h2 {
-  font-size: 40px;
-  line-height: 1.3;
+html h1,
+body h1,
+html h2,
+body h2,
+html h3,
+body h3,
+html h4,
+body h4,
+html h5,
+body h5,
+html h6,
+body h6,
+html p,
+body p,
+html a,
+body a {
+  color: black;
 }
-h4 {
-  font-size: 24px;
-  margin-bottom: 0.3em;
+html p,
+body p,
+html a,
+body a {
+  font-size: 18px;
 }
-p {
-  font-size: 20px;
-  line-height: 1.5;
-}
-.emoji {
-  height: 200px;
-  padding-top: 80px;
-}
-.first {
-  margin-top: 150px;
-}
-.start_sentences {
-  margin-top: 20px;
-}
-.scrolldown {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 50px;
-  text-align: center;
+.narration {
+  box-shadow: 0 18px 35px rgba(50, 50, 93, 0.1), 0 8px 15px rgba(0, 0, 0, 0.07);
+  margin: 40px auto 0 auto;
+  max-width: 600px;
+  background: black;
+  border-radius: 4px;
+  -webkit-animation-name: floating;
+  -webkit-animation-duration: 1.8s;
+  -webkit-animation-iteration-count: infinite;
   transition: 2s;
 }
-.scrolldown img {
-  opacity: 0.2;
-  max-width: 30px;
+.narration p,
+.narration a,
+.narration h1,
+.narration h2 {
+  padding: 10px 20px;
+  color: white;
 }
-/*# sourceMappingURL=index.css.map */
+.narration p,
+.narration a {
+  font-size: 20px;
+}
+.right {
+  margin-right: 30px;
+  margin-left: auto;
+}
+.left {
+  margin-right: auto;
+  margin-left: 30px;
+}
+/*# sourceMappingURL=book.css.map */

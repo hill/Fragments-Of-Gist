@@ -1,0 +1,40 @@
+@import 'presets';
+@import 'animations';
+
+html,body {
+  background: #DBD4C7;
+  h1,h2,h3,h4,h5,h6,p,a {
+    color: black;
+  }
+  p,a {
+    font-size: 18px;
+  }
+}
+
+.narration {
+  box-shadow: 0 18px 35px rgba(50,50,93,.1), 0 8px 15px rgba(0,0,0,.07);
+  margin: 40px auto 0 auto;
+  max-width: 600px;
+  background: black;
+  p,a,h1,h2 {
+    padding: 10px 20px;
+    color: white;
+  }
+  p,a {
+    font-size: 20px;
+  }
+  border-radius: 4px;
+  -webkit-animation-name: floating;
+  -webkit-animation-duration: 1.8s;
+  -webkit-animation-iteration-count: infinite;
+  transition: 2s;
+}
+
+.right {
+  margin-right: 30px;
+  margin-left: auto;
+}
+.left {
+  margin-right: auto;
+  margin-left: 30px;
+}

@@ -3,7 +3,10 @@ const $ = require('jquery');
 const ScrollMagic = require('scrollmagic');
 require('scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators');
 const howler = require('howler');
-const moment = require('moment');
+const Moment = require('moment');
+
+// prevent zooming
+require('electron').webFrame.setZoomLevelLimits(1, 1);
 
 // Shortcuts
 document.addEventListener("keydown", function(event){
@@ -16,6 +19,16 @@ document.addEventListener("keydown", function(event){
         break;
      }
 });
+
+// Change to final scene if time = 18 minutes
+const completeTime = 18 * 60 * 1000 // ms
+
+setInterval(function(){
+  if (Date.now() - localStorage.getItem('startTime') >= completeTime) {
+    console.log('COMPLETED')
+    location = '../pages/end_camera_scene.html'
+  }
+},5000)
 
 // init controller
 var controller = new ScrollMagic.Controller();

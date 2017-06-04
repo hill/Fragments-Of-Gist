@@ -14,7 +14,7 @@
 		</div>
 
 		<div class="container out">
-		  <h1>Good Evening,</h1>
+		  <h1>Good <span id="time">Evening</span>,</h1>
 		  <p class="fade start_sentences first">Why hello there reader! What a delightful evening it is, don't you think?</p>
 			<p class='fade' >You're sitting here. Reading this. I'm sitting here. Writing this. Doing ... whatever fictional narrators do. It's just wonderful!</p>
 			<p class='fade trigger-ambient'>Oh my, I almost forgot to introduce myself. How dreadfully absent-minded of me! My name is Alfie. I'll be your host for this evening.</p>
@@ -59,6 +59,7 @@
 
 		  <p class="fade">
 				<a href="end_camera_scene.html">Inconspicious link to camera scene.</a>
+				<a href="scenes/scene_1.html">Inconspicious link to SCENE 1</a>
 				Meatball shoulder capicola, flank pork chop prosciutto turkey short ribs t-bone short loin. Doner beef ribs drumstick tail. Beef ribs flank pastrami bresaola andouille pig shankle ham hock boudin prosciutto. Swine bresaola shoulder filet mignon hamburger, landjaeger beef cow kielbasa flank strip steak. Turducken filet mignon swine, kielbasa shank boudin drumstick.</p>
 		  <p class="fade">Venison hamburger sirloin, pork belly beef ribs spare ribs biltong swine fatback capicola. Corned beef chicken tail, beef ribs porchetta ham hock fatback sausage capicola meatloaf swine shoulder tongue. Short loin ball tip strip steak, tri-tip picanha shank burgdoggen pork pancetta kielbasa venison porchetta leberkas chuck andouille. Short loin pancetta spare ribs, pig jerky pork loin cow boudin landjaeger swine jowl. Capicola bacon jerky pastrami ham hock bresaola leberkas.</p>
 		</div>
@@ -66,10 +67,15 @@
 	<!-- Insert this line above script imports  -->
 	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
 
+	<script type="text/javascript">
+		localStorage.setItem('startTime', Date.now())
+	</script>
+
 	<!-- MAIN SCRIPT  -->
 	<script src="../assets/js/main.js"></script>
 	<!-- PAGE SPECIFIC SCRIPTS -->
 	<script src="../assets/js/page-specific/hitch_intro.js" charset="utf-8"></script>
+
 
 	<!-- Insert this line after script imports -->
 	<script>if (window.module) module = window.module;</script>

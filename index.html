@@ -43,11 +43,17 @@
 		<script type="text/javascript">
 			const project = require('./package.json')
 			const os = require('os')
+			const howler = require('howler')
 			document.getElementById('version').innerHTML = project.version
 			document.getElementById('type').innerHTML = os.type()
 			document.getElementById('system').innerHTML = os.platform()
 			document.getElementById('osversion').innerHTML = os.release()
 			console.log(project.version)
+
+			new Howl({
+			    src: ['assets/sounds/orchestra_warmup.mp3'],
+			    volume: 0.4,
+			}).play();
 		</script>
 	</body>
 </html>

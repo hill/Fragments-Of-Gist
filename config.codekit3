@@ -15,6 +15,56 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/assets\/css\/animations.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/assets\/css\/animations.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/book.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/book-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/book.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/book.css.map",
+		"oF": 0
+		},
+	"\/assets\/css\/book.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/css\/book.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
 	"\/assets\/css\/camera.css": {
 		"aP": 1,
 		"bl": 0,
@@ -98,6 +148,36 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/assets\/fonts\/Mate\/Mate-Italic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Mate\/Mate-Italic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Mate\/Mate-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Mate\/Mate-Regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Mate\/OFL.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Mate\/OFL.txt",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Mate_SC\/MateSC-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Mate_SC\/MateSC-Regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Mate_SC\/OFL.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Mate_SC\/OFL.txt",
+		"oF": 0
+		},
 	"\/assets\/img\/arrow.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -162,6 +242,15 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/assets\/js\/jquery.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/jquery.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/assets\/js\/main.js": {
 		"ft": 64,
@@ -232,6 +321,18 @@
 		"oAP": "\/assets\/sounds\/Hitchcock_presents.mp3",
 		"oF": 0
 		},
+	"\/assets\/sounds\/orchestra_warmup.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/orchestra_warmup.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/paper_turn.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/paper_turn.mp3",
+		"oF": 0
+		},
 	"\/assets\/sounds\/street_ambience.mp3": {
 		"ft": 8192,
 		"oA": 2,
@@ -277,6 +378,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/hitch_intro.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/scene_1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/scene_1.html",
 		"oF": 0
 		},
 	"\/yarn.lock": {
