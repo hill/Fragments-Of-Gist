@@ -98,6 +98,16 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/assets\/css\/foundation.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/foundation.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/assets\/css\/index.css": {
 		"aP": 1,
 		"bl": 0,
@@ -226,6 +236,94 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/assets\/img\/end\/pray-blur.png": {
+		"ft": 32768,
+		"iS": 73542,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/pray-blur.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/pray.png": {
+		"ft": 32768,
+		"iS": 34752,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/pray.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/smile-blur.png": {
+		"ft": 32768,
+		"iS": 77353,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/smile-blur.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/smile.png": {
+		"ft": 32768,
+		"iS": 47817,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/smile.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/smiledown-blur.png": {
+		"ft": 32768,
+		"iS": 60796,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/smiledown-blur.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/smiledown.png": {
+		"ft": 32768,
+		"iS": 44319,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/smiledown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/thumbs-blur.png": {
+		"ft": 32768,
+		"iS": 70708,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/thumbs-blur.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/end\/thumbs-clean.png": {
+		"ft": 32768,
+		"iS": 34320,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/thumbs-clean.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/hitchcock.mp4": {
 		"ft": 8192,
 		"oA": 2,
@@ -242,6 +340,15 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/assets\/js\/foundation.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/foundation.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/assets\/js\/jquery.min.js": {
 		"ft": 64,
@@ -279,38 +386,11 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/animation.gsap.min.js": {
+	"\/assets\/js\/rellax.min.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/animation.gsap.min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/animation.velocity.min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/animation.velocity.min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/debug.addIndicators.min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/debug.addIndicators.min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/jquery.ScrollMagic.min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/jquery.ScrollMagic.min-min.js",
+		"oAP": "\/assets\/js\/rellax.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -367,6 +447,12 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/pages\/end.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/end.html",
+		"oF": 0
 		},
 	"\/pages\/end_camera_scene.html": {
 		"ft": 8192,

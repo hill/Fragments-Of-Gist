@@ -169,6 +169,7 @@ h4 {
   margin-bottom: 0.3em;
 }
 p {
+  margin: 30px auto;
   font-size: 20px;
   line-height: 1.5;
 }
@@ -194,5 +195,16 @@ p {
 .scrolldown img {
   opacity: 0.2;
   max-width: 30px;
+}
+.row {
+  max-width: 90%;
+}
+.parallax {
+  opacity: 1;
+  transition: 2s;
+}
+.hide-for-parallax {
+  opacity: 0;
+  transition: 2s;
 }
 /*# sourceMappingURL=index.css.map */

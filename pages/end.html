@@ -1,0 +1,138 @@
+<html>
+	<head>
+    <link rel="stylesheet" href="../assets/css/foundation.min.css">
+		<link rel="stylesheet" href="../assets/css/index.css">
+
+	</head>
+	<body>
+		<div class="container out">
+      <div style='height: 300px;'></div>
+      <p class="fade start_sentences first">Oh dear!</p>
+      <p class="fade">Someone turned the light off!</p>
+      <p class='fade'>It seems that you can't see my work any more...</p>
+      <p class='fade'>That must be frustrating for you</p>
+      <p class='fade'>To read a story and never know how it will end. To never have resolution.</p>
+      <div style='height: 100px;'></div>
+      <center>
+        <p class='fade'>It's a shame really</p>
+        <p class='fade'>You could have interpreted my brillant story.</p>
+        <p class="fade">You could have found some higher meaning in it.</p>
+        <p class="fade">You could drawn on some common understanding that we both share.</p>
+        <p class="fade">Assumed you thought what I meant</p>
+      </center>
+		</div>
+
+    <div style='height: 200px;'></div>
+    <!-- <div class="parallax hide-for-parallax"> -->
+    <div class="parallax">
+      <div class="row">
+        <div class="medium-1 columns plain-text rellax" data-rellax-speed='6'>
+          <img src="../assets/img/end/thumbs-clean.png" alt="">
+        </div>
+        <div class="medium-1 columns plain-text rellax" data-rellax-speed='-2'>
+          <img src="../assets/img/end/smiledown-blur.png" alt="">
+        </div>
+        <div class="medium-2 columns plain-text rellax" data-rellax-speed='-6'>
+          <img src="../assets/img/end/smiledown-blur.png" alt="">
+        </div>
+        <div class="medium-3 columns plain-text rellax" data-rellax-speed='2'>
+          <img src="../assets/img/end/smile-blur.png" alt="">
+        </div>
+        <div class="medium-4 columns plain-text rellax" data-rellax-speed='-4'>
+          <img src="../assets/img/end/pray-blur.png" alt="">
+        </div>
+        <div class="medium-1 columns plain-text rellax" data-rellax-speed='4'>
+          <img src="../assets/img/end/smiledown.png" alt="">
+        </div>
+      </div>
+      <div class="row">
+        <div class=" medium-4 columns plain-text rellax" data-rellax-speed='3'>
+          <p>MY ARTISTIC VISION WILL NOT BE COMPROMISED!</p>
+        </div>
+        <div class=" medium-2 columns plain-text rellax" data-rellax-speed='-6'>
+          <p>I Am The Creator</p>
+        </div>
+        <div class=" medium-2 columns plain-text rellax" data-rellax-speed='-4'>
+          <p>WHO DO YOU THINK YOU ARE?</p>
+        </div>
+        <div class=" medium-2 columns plain-text rellax" data-rellax-speed='-4'>
+          <img src="../assets/img/end/thumbs-blur.png" alt="">
+        </div>
+      </div>
+      <div class="row">
+        <div class=" medium-3 columns plain-text rellax" data-rellax-speed='4'>
+          <img src="../assets/img/end/smiledown-blur.png" alt="">
+        </div>
+        <div class=" medium-2 columns plain-text rellax" data-rellax-speed='5'>
+          <p style='font-size:30px;'>I Am Artist</p>
+        </div>
+        <div class="swing medium-2 columns plain-text rellax" data-rellax-speed='2'>
+          <p>I Am The Creator</p>
+        </div>
+        <div class="medium-2 columns plain-text rellax" data-rellax-speed='-5'>
+          <p>This is the story of a character named Morris.</p>
+        </div>
+        <div class="medium-2 columns plain-text rellax" data-rellax-speed='3'>
+          <p style='font-size:50px;'>How dreadfully rude of me...</p>
+        </div>
+        <div class="medium-1 columns plain-text rellax" data-rellax-speed='1'>
+          <p>You're sitting here. Reading this. I'm sitting here. Writing this.</p>
+        </div>
+      </div>
+    </div>
+    <center>
+      <div class="parallax">
+        <p class="fade">Assumed you thought what I meant</p>
+        <p class="fade">Assumed you thought what I meant</p>
+        <p class="fade">Assumed you thought what I meant</p>
+        <div style='height:100px'></div>
+        <p class="fade">But then this would be yours.</p>
+        <p class="fade">Who wrote this?</p>
+        <p class="fade">Who wrote this?</p>
+        <p class="fade">Who wrote this?</p>
+      </div>
+      <div style='height:100px'></div>
+      <p class="fade" id='final'><a href="./end_camera_scene.html">Who was this by?</a></p>
+    </center>
+    <div style='height:1000px'></div>
+
+	<!-- Insert this line above script imports  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+	<script type="text/javascript">
+		localStorage.setItem('startTime', Date.now())
+	</script>
+
+	<!-- MAIN SCRIPT  -->
+	<script src="../assets/js/main.js"></script>
+  <script src="../assets/js/rellax.min.js"></script>
+	<!-- PAGE SPECIFIC SCRIPTS -->
+  <script type="text/javascript">
+    var rellax = new Rellax('.rellax')
+
+    // new ScrollMagic.Scene({
+    //   triggerElement: '.parallax',
+    //   triggerHook: 0.4
+    // })
+    // .on("enter", function(){
+    //   $('.parallax').removeClass('hide-for-parallax')
+    // })
+    // .addIndicators()
+    // .addTo(controller)
+
+    new ScrollMagic.Scene({
+      triggerElement: '#final',
+      triggerHook: 0.55
+    })
+    .on("enter", function(){
+      $('.parallax').addClass('hide-for-parallax')
+    })
+    //.addIndicators()
+    .addTo(controller)
+  </script>
+
+	<!-- Insert this line after script imports -->
+	<script>if (window.module) module = window.module;</script>
+
+	</body>
+</html>

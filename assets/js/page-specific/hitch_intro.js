@@ -25,12 +25,7 @@ new ScrollMagic.Scene({
 .addTo(controller)
 
 function getGreetingTime (m) {
-  /* USE
-      //The var "humanizedGreeting" below will equal (assuming the time is 8pm) "Good evening, James."
 
-      var user = "James";
-      var humanizedGreeting = "Good " + getGreetingTime(moment()) + ", " + user + ".";
-  */
 	var g = null; //return g
 
 	if(!m || !m.isValid()) { return; } //if we can't find a valid or filled moment, we return.
@@ -40,14 +35,14 @@ function getGreetingTime (m) {
 	var currentHour = parseFloat(m.format("HH"));
 
 	if(currentHour >= split_afternoon && currentHour <= split_evening) {
-		g = "Afternoon";
+		g = "afternoon";
 	} else if(currentHour >= split_evening) {
-		g = "Evening";
+		g = "evening";
 	} else {
-		g = "Morning";
+		g = "morning";
 	}
 
 	return g;
 }
 
-$("#time").text(getGreetingTime(Moment()))
+$(".time").text(getGreetingTime(Moment()))

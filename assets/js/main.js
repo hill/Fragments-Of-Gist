@@ -24,9 +24,10 @@ document.addEventListener("keydown", function(event){
 const completeTime = 18 * 60 * 1000 // ms
 
 setInterval(function(){
+  console.log((Date.now() - localStorage.getItem('startTime')) / (1000*60))
   if (Date.now() - localStorage.getItem('startTime') >= completeTime) {
     console.log('COMPLETED')
-    location = '../pages/end_camera_scene.html'
+    location = '../end.html'
   }
 },5000)
 
@@ -52,7 +53,7 @@ $(".fade").each(function(){
   $(this).addClass('out');
   new ScrollMagic.Scene({
     triggerElement: this,
-    triggerHook: 0.60
+    triggerHook: 0.55
   })
   .on("enter", function(ev){
     $(ev.target.triggerElement()).removeClass('out');
