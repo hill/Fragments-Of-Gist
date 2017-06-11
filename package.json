@@ -1,7 +1,7 @@
 {
   "name": "theplatform",
   "productName": "The Platform",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "> My superb app",
   "license": "MIT",
   "repository": {
@@ -19,6 +19,7 @@
     "howler": "^2.0.3",
     "jquery": "^3.2.1",
     "moment": "^2.18.1",
+    "mousetrap": "^1.6.1",
     "rellax": "^1.0.0",
     "scrollmagic": "^2.0.5"
   },

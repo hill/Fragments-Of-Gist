@@ -4,30 +4,45 @@ const ScrollMagic = require('scrollmagic');
 require('scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators');
 const howler = require('howler');
 const Moment = require('moment');
+const Mousetrap = require('mousetrap');
 
 // prevent zooming
 require('electron').webFrame.setZoomLevelLimits(1, 1);
 
 // Shortcuts
-document.addEventListener("keydown", function(event){
-
-  switch (event.key) {
-    case "Escape":
-        if (remote.getCurrentWindow().isFullScreen()) {
-            remote.getCurrentWindow().setFullScreen(false);
-        }
-        break;
-     }
+Mousetrap.bind(['esc'], function() {
+  if (remote.getCurrentWindow().isFullScreen()) {
+      remote.getCurrentWindow().setFullScreen(false);
+  }
 });
+
+Mousetrap.bind(['command+e', 'ctrl+e'], function() {
+  location = remote.app.getAppPath() + '/pages/end.html';
+});
+
+Mousetrap.bind(['command+g', 'ctrl+g'], function() {
+  location = remote.app.getAppPath() + '/index.html';
+});
+
+var muted = false;
+Mousetrap.bind(['command+shift+m', 'ctrl+shift+m'], function(){
+  if (!muted) {
+    Howler.mute(true)
+    muted = true
+  } else {
+    Howler.mute(false)
+    muted = false
+  }
+})
 
 // Change to final scene if time = 18 minutes
 const completeTime = 18 * 60 * 1000 // ms
 
 setInterval(function(){
-  console.log((Date.now() - localStorage.getItem('startTime')) / (1000*60))
+  //console.log((Date.now() - localStorage.getItem('startTime')) / (1000*60))
   if (Date.now() - localStorage.getItem('startTime') >= completeTime) {
     console.log('COMPLETED')
-    location = '../end.html'
+    location = remote.app.getAppPath() + '/pages/end.html'
   }
 },5000)
 
@@ -39,7 +54,7 @@ $(".flow").each(function(){
   $(this).addClass('out');
   new ScrollMagic.Scene({
     triggerElement: this,
-    triggerHook: 0, // pos of triggerHook on screen
+    triggerHook: 0.2, // pos of triggerHook on screen
     duration: 400
   })
   .on("enter", function(ev){$(ev.target.triggerElement()).removeClass('out');})

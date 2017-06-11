@@ -188,6 +188,117 @@
 		"oAP": "\/assets\/fonts\/Mate_SC\/OFL.txt",
 		"oF": 0
 		},
+	"\/assets\/icons\/mac\/1024x1024.png.icns": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/icons\/mac\/1024x1024.png.icns",
+		"oF": 0
+		},
+	"\/assets\/icons\/png\/1024x1024.png": {
+		"ft": 32768,
+		"iS": 240788,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/1024x1024.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/128x128.png": {
+		"ft": 32768,
+		"iS": 11431,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/128x128.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/16x16.png": {
+		"ft": 32768,
+		"iS": 878,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/24x24.png": {
+		"ft": 32768,
+		"iS": 1413,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/24x24.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/256x256.png": {
+		"ft": 32768,
+		"iS": 31780,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/256x256.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/32x32.png": {
+		"ft": 32768,
+		"iS": 1959,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/48x48.png": {
+		"ft": 32768,
+		"iS": 3087,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/64x64.png": {
+		"ft": 32768,
+		"iS": 4397,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/64x64.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/png\/96x96.png": {
+		"ft": 32768,
+		"iS": 7617,
+		"oA": 0,
+		"oAP": "\/assets\/icons\/png\/96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/icons\/win\/1024x1024.png.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/icons\/win\/1024x1024.png.ico",
+		"oF": 0
+		},
 	"\/assets\/img\/arrow.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -203,6 +314,16 @@
 		"oA": 2,
 		"oAP": "\/assets\/img\/budgie.mp4",
 		"oF": 0
+		},
+	"\/assets\/img\/divider.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/img\/divider.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/img\/emojis.gif": {
 		"ft": 4194304,
@@ -235,6 +356,17 @@
 		"oAP": "\/assets\/img\/emojislarge200.gif",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/assets\/img\/end\/magna thoma.png": {
+		"ft": 32768,
+		"iS": 17596,
+		"oA": 0,
+		"oAP": "\/assets\/img\/end\/magna thoma.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/img\/end\/pray-blur.png": {
 		"ft": 32768,
@@ -330,6 +462,28 @@
 		"oAP": "\/assets\/img\/hitchcock.mp4",
 		"oF": 0
 		},
+	"\/assets\/img\/thumbs_down.png": {
+		"ft": 32768,
+		"iS": 38414,
+		"oA": 0,
+		"oAP": "\/assets\/img\/thumbs_down.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/thumbs_up.png": {
+		"ft": 32768,
+		"iS": 36864,
+		"oA": 0,
+		"oAP": "\/assets\/img\/thumbs_up.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/tophat.png": {
 		"ft": 32768,
 		"iS": 43506,
@@ -419,6 +573,3204 @@
 		"oAP": "\/assets\/sounds\/street_ambience.mp3",
 		"oF": 0
 		},
+	"\/dist\/The Platform-darwin-x64\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/LICENSE",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Electron Framework": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Electron Framework",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libffmpeg.dylib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libffmpeg.dylib",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/am.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/am.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ar.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ar.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bg.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bg.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bn.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bn.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ca.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ca.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/crashpad_handler": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/crashpad_handler",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/cs.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/cs.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/da.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/da.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/de.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/de.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/el.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/el.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es_419.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es_419.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/et.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/et.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fa.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fa.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fi.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fi.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fil.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fil.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/gu.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/gu.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/he.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/he.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hi.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hi.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hu.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hu.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/id.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/id.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/it.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/it.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ja.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ja.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/kn.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/kn.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ko.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ko.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lt.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lt.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lv.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lv.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ml.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ml.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/mr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/mr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ms.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ms.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nb.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nb.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nl.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nl.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pdf_viewer_resources.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pdf_viewer_resources.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pl.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pl.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_BR.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_BR.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_PT.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_PT.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ro.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ro.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ru.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ru.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sk.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sk.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sl.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sl.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sv.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sv.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sw.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sw.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ta.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ta.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/te.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/te.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/th.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/th.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/tr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/tr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/uk.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/uk.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/vi.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/vi.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_CN.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_CN.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_TW.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_TW.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/Mantle.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/Mantle.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLJSONAdapter.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLJSONAdapter.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLManagedObjectAdapter.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLManagedObjectAdapter.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel+NSCoding.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel+NSCoding.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLModel.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLValueTransformer.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/MTLValueTransformer.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSArray+MTLManipulationAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSArray+MTLManipulationAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSDictionary+MTLManipulationAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSDictionary+MTLManipulationAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSObject+MTLComparisonAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSObject+MTLComparisonAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLInversionAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLInversionAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLPredefinedTransformerAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Headers\/NSValueTransformer+MTLPredefinedTransformerAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Mantle": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Mantle",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Modules\/module.modulemap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Modules\/module.modulemap",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Mantle.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTKeyPathCoding.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTKeyPathCoding.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTScope.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/EXTScope.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/metamacros.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/metamacros.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSArray+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSArray+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACCommandSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACCommandSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACTextSignalSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSControl+RACTextSignalSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSData+RACSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSData+RACSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSDictionary+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSDictionary+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSEnumerator+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSEnumerator+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSFileHandle+RACSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSFileHandle+RACSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSIndexSet+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSIndexSet+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSNotificationCenter+RACSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSNotificationCenter+RACSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACAppKitBindings.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACAppKitBindings.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACDeallocating.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACDeallocating.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACLifting.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACLifting.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACPropertySubscribing.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACPropertySubscribing.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACSelectorSignal.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSObject+RACSelectorSignal.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSOrderedSet+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSOrderedSet+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSSet+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSSet+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSequenceAdditions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSequenceAdditions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSString+RACSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSText+RACSignalSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSText+RACSignalSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSURLConnection+RACSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSURLConnection+RACSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSUserDefaults+RACSupport.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/NSUserDefaults+RACSupport.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBacktrace.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBacktrace.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBehaviorSubject.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACBehaviorSubject.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACChannel.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACChannel.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCommand.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCommand.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCompoundDisposable.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACCompoundDisposable.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACDisposable.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACDisposable.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACEvent.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACEvent.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACGroupedSignal.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACGroupedSignal.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACKVOChannel.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACKVOChannel.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACMulticastConnection.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACMulticastConnection.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler+Subclass.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler+Subclass.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACQueueScheduler.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACReplaySubject.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACReplaySubject.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler+Subclass.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler+Subclass.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScheduler.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScopedDisposable.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACScopedDisposable.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSequence.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSequence.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSerialDisposable.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSerialDisposable.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal+Operations.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal+Operations.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSignal.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACStream.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACStream.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubject.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubject.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriber.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriber.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriptingAssignmentTrampoline.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACSubscriptingAssignmentTrampoline.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTargetQueueScheduler.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTargetQueueScheduler.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTestScheduler.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTestScheduler.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTuple.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACTuple.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACUnit.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/RACUnit.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/ReactiveCocoa.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Headers\/ReactiveCocoa.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Modules\/module.modulemap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Modules\/module.modulemap",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/ReactiveCocoa": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/ReactiveCocoa",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/ReactiveCocoa.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSBundle+SQRLVersionExtensions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSBundle+SQRLVersionExtensions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSProcessInfo+SQRLVersionExtensions.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/NSProcessInfo+SQRLVersionExtensions.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLDownloadedUpdate.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLDownloadedUpdate.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdate.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdate.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdater.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/SQRLUpdater.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/Squirrel.h": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Headers\/Squirrel.h",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Modules\/module.modulemap": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Modules\/module.modulemap",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/ShipIt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Resources\/ShipIt",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Squirrel": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/Squirrel.framework\/Versions\/A\/Squirrel",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/MacOS\/The Platform Helper EH": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/MacOS\/The Platform Helper EH",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/MacOS\/The Platform Helper NP": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/MacOS\/The Platform Helper NP",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/MacOS\/The Platform Helper": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/MacOS\/The Platform Helper",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/MacOS\/The Platform": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/MacOS\/The Platform",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Resources\/app.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Resources\/app.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Resources\/electron.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Resources\/electron.icns": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/The Platform.app\/Contents\/Resources\/electron.icns",
+		"oF": 0
+		},
+	"\/dist\/The Platform-darwin-x64\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-darwin-x64\/version",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/blink_image_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/blink_image_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/content_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/content_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/content_shell.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/icudtl.dat",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/libffmpeg.so": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/libffmpeg.so",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/libnode.so": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/libnode.so",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/LICENSE",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/am.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/am.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ar.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ar.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/bg.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/bg.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/bn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/bn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ca.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ca.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/cs.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/cs.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/da.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/da.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/de.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/de.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/el.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/el.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/en-GB.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/en-GB.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/en-US.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/en-US.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/es-419.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/es-419.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/es.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/es.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/et.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/et.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/fa.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/fa.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/fake-bidi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/fake-bidi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/fi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/fi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/fil.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/fil.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/fr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/fr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/gu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/gu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/he.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/he.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/hi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/hi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/hr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/hr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/hu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/hu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/id.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/id.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/it.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/it.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ja.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ja.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/kn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/kn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ko.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ko.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/lt.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/lt.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/lv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/lv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ml.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ml.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/mr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/mr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ms.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ms.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/nb.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/nb.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/nl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/nl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/pl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/pl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/pt-BR.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/pt-BR.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/pt-PT.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/pt-PT.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ro.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ro.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ru.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ru.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/sk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/sk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/sl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/sl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/sr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/sr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/sv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/sv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/sw.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/sw.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/ta.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/ta.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/te.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/te.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/th.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/th.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/tr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/tr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/uk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/uk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/vi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/vi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/zh-CN.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/zh-CN.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/locales\/zh-TW.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/locales\/zh-TW.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/pdf_viewer_resources.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/pdf_viewer_resources.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/resources\/app.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/resources\/app.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/resources\/electron.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/The Platform": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/The Platform",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/ui_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/ui_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/version",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-ia32\/views_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-ia32\/views_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/blink_image_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/blink_image_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/content_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/content_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/content_shell.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/icudtl.dat",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/libffmpeg.so": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/libffmpeg.so",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/libnode.so": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/libnode.so",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/LICENSE",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/am.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/am.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ar.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ar.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/bg.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/bg.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/bn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/bn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ca.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ca.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/cs.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/cs.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/da.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/da.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/de.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/de.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/el.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/el.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/en-GB.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/en-GB.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/en-US.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/en-US.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/es-419.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/es-419.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/es.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/es.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/et.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/et.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/fa.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/fa.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/fake-bidi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/fake-bidi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/fi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/fi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/fil.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/fil.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/fr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/fr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/gu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/gu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/he.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/he.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/hi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/hi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/hr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/hr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/hu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/hu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/id.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/id.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/it.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/it.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ja.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ja.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/kn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/kn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ko.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ko.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/lt.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/lt.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/lv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/lv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ml.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ml.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/mr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/mr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ms.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ms.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/nb.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/nb.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/nl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/nl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/pl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/pl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/pt-BR.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/pt-BR.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/pt-PT.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/pt-PT.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ro.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ro.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ru.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ru.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/sk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/sk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/sl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/sl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/sr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/sr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/sv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/sv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/sw.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/sw.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/ta.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/ta.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/te.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/te.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/th.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/th.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/tr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/tr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/uk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/uk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/vi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/vi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/zh-CN.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/zh-CN.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/locales\/zh-TW.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/locales\/zh-TW.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/pdf_viewer_resources.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/pdf_viewer_resources.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/resources\/app.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/resources\/app.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/resources\/electron.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/The Platform": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/The Platform",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/ui_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/ui_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/version",
+		"oF": 0
+		},
+	"\/dist\/The Platform-linux-x64\/views_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-linux-x64\/views_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/LICENSE",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Electron Framework": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Electron Framework",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libffmpeg.dylib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libffmpeg.dylib",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Libraries\/libnode.dylib",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/am.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/am.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ar.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ar.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bg.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bg.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bn.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/bn.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ca.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ca.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/content_shell.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/cs.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/cs.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/da.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/da.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/de.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/de.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/el.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/el.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/en_GB.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es_419.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/es_419.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/et.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/et.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fa.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fa.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fi.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fi.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fil.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fil.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/fr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/gu.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/gu.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/he.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/he.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hi.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hi.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hu.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/hu.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/icudtl.dat",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/id.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/id.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/it.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/it.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ja.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ja.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/kn.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/kn.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ko.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ko.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lt.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lt.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lv.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/lv.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/MainMenu.nib",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ml.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ml.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/mr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/mr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ms.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ms.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nb.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nb.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nl.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/nl.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pdf_viewer_resources.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pdf_viewer_resources.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pl.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pl.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_BR.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_BR.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_PT.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/pt_PT.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ro.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ro.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ru.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ru.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sk.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sk.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sl.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sl.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sv.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sv.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sw.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/sw.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ta.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/ta.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/te.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/te.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/th.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/th.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/tr.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/tr.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/uk.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/uk.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/vi.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/vi.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_CN.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_CN.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_TW.lproj\/locale.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/Electron Framework.framework\/Versions\/A\/Resources\/zh_TW.lproj\/locale.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/MacOS\/The Platform Helper EH": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/MacOS\/The Platform Helper EH",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper EH.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/MacOS\/The Platform Helper NP": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/MacOS\/The Platform Helper NP",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper NP.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/MacOS\/The Platform Helper": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/MacOS\/The Platform Helper",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Frameworks\/The Platform Helper.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Info.plist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Info.plist",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/MacOS\/The Platform": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/MacOS\/The Platform",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/PkgInfo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/PkgInfo",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Resources\/app.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Resources\/app.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Resources\/electron.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Resources\/electron.icns": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/The Platform.app\/Contents\/Resources\/electron.icns",
+		"oF": 0
+		},
+	"\/dist\/The Platform-mas-x64\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-mas-x64\/version",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/blink_image_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/blink_image_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/content_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/content_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/content_shell.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/d3dcompiler_47.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/d3dcompiler_47.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/ffmpeg.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/ffmpeg.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/icudtl.dat",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/libEGL.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/libEGL.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/libGLESv2.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/libGLESv2.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/LICENSE",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/am.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/am.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ar.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ar.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/bg.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/bg.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/bn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/bn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ca.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ca.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/cs.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/cs.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/da.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/da.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/de.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/de.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/el.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/el.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/en-GB.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/en-GB.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/en-US.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/en-US.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/es-419.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/es-419.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/es.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/es.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/et.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/et.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/fa.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/fa.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/fake-bidi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/fake-bidi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/fi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/fi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/fil.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/fil.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/fr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/fr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/gu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/gu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/he.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/he.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/hi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/hi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/hr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/hr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/hu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/hu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/id.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/id.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/it.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/it.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ja.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ja.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/kn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/kn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ko.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ko.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/lt.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/lt.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/lv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/lv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ml.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ml.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/mr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/mr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ms.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ms.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/nb.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/nb.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/nl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/nl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/pl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/pl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/pt-BR.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/pt-BR.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/pt-PT.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/pt-PT.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ro.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ro.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ru.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ru.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/sk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/sk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/sl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/sl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/sr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/sr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/sv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/sv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/sw.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/sw.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/ta.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/ta.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/te.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/te.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/th.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/th.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/tr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/tr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/uk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/uk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/vi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/vi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/zh-CN.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/zh-CN.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/locales\/zh-TW.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/locales\/zh-TW.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/node.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/node.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/pdf_viewer_resources.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/pdf_viewer_resources.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/resources\/app.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/resources\/app.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/resources\/electron.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/The Platform.exe": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/The Platform.exe",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/ui_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/ui_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/version",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-ia32\/views_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-ia32\/views_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/blink_image_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/blink_image_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/content_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/content_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/content_shell.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/content_shell.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/d3dcompiler_47.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/d3dcompiler_47.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/ffmpeg.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/ffmpeg.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/icudtl.dat": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/icudtl.dat",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/libEGL.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/libEGL.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/libGLESv2.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/libGLESv2.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/LICENSE",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/LICENSES.chromium.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/LICENSES.chromium.html",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/am.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/am.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ar.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ar.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/bg.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/bg.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/bn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/bn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ca.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ca.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/cs.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/cs.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/da.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/da.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/de.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/de.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/el.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/el.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/en-GB.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/en-GB.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/en-US.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/en-US.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/es-419.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/es-419.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/es.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/es.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/et.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/et.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/fa.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/fa.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/fake-bidi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/fake-bidi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/fi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/fi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/fil.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/fil.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/fr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/fr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/gu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/gu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/he.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/he.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/hi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/hi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/hr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/hr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/hu.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/hu.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/id.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/id.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/it.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/it.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ja.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ja.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/kn.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/kn.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ko.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ko.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/lt.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/lt.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/lv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/lv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ml.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ml.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/mr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/mr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ms.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ms.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/nb.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/nb.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/nl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/nl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/pl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/pl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/pt-BR.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/pt-BR.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/pt-PT.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/pt-PT.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ro.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ro.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ru.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ru.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/sk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/sk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/sl.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/sl.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/sr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/sr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/sv.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/sv.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/sw.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/sw.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/ta.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/ta.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/te.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/te.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/th.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/th.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/tr.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/tr.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/uk.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/uk.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/vi.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/vi.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/zh-CN.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/zh-CN.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/locales\/zh-TW.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/locales\/zh-TW.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/natives_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/natives_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/node.dll": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/node.dll",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/pdf_viewer_resources.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/pdf_viewer_resources.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/resources\/app.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/resources\/app.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/resources\/electron.asar": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/resources\/electron.asar",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/snapshot_blob.bin": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/snapshot_blob.bin",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/The Platform.exe": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/The Platform.exe",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/ui_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/ui_resources_200_percent.pak",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/version": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/version",
+		"oF": 0
+		},
+	"\/dist\/The Platform-win32-x64\/views_resources_200_percent.pak": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/The Platform-win32-x64\/views_resources_200_percent.pak",
+		"oF": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -433,6 +3785,12 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/names.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/names.txt",
+		"oF": 0
 		},
 	"\/node_modules": {
 		"ft": 65536,
@@ -464,6 +3822,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/hitch_intro.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/L.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/L.html",
 		"oF": 0
 		},
 	"\/pages\/scenes\/scene_1.html": {

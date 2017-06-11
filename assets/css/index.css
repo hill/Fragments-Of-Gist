@@ -126,7 +126,7 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     transform: translateY(0%);
   }
   50% {
-    transform: translateY(10%);
+    transform: translateY(5px);
     box-shadow: 0 11px 20px rgba(50, 50, 93, 0.1), 0 6px 11px rgba(0, 0, 0, 0.08);
   }
   100% {
@@ -138,7 +138,7 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     -webkit-transform: translateY(0%);
   }
   50% {
-    -webkit-transform: translateY(10%);
+    -webkit-transform: translateY(5px);
   }
   100% {
     -webkit-transform: translateY(0%);
@@ -154,6 +154,23 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
   }
   50% {
     transform: rotate(3deg);
+  }
+}
+@-webkit-keyframes wiggle {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  25% {
+    -webkit-transform: rotate(-10deg);
+  }
+  50% {
+    -webkit-transform: rotate(0deg);
+  }
+  75% {
+    -webkit-transform: rotate(10deg);
+  }
+  100% {
+    -webkit-transform: rotate(0deg);
   }
 }
 h1 {
