@@ -1,11 +1,31 @@
-@import url('http://fonts.googleapis.com/css?family=Merriweather:100,200,300,400,400i,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Mate+SC|Mate:400,400i');
+@font-face {
+  font-family: 'Fanwood';
+  src: url('../fonts/Fanwood/fanwood-webfont.woff') format('woff'), /* Super Modern Browsers */ /* Pretty Modern Browsers */ url('../fonts/Fanwood/fanwood-webfont.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/Fanwood/fanwood-webfont.svg') format('svg');
+  /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Fanwood';
+  src: url('../fonts/Fanwood/fanwood_italic-webfont.woff') format('woff'), /* Super Modern Browsers */ /* Pretty Modern Browsers */ url('../fonts/Fanwood/fanwood_italic-webfont.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/Fanwood/fanwood_italic-webfont.svg') format('svg');
+  /* Legacy iOS */
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Fanwood-Text';
+  src: url('../fonts/Fanwood/fanwood_text-webfont.woff') format('woff'), /* Super Modern Browsers */ /* Pretty Modern Browsers */ url('../fonts/Fanwood/fanwood_text-webfont.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/Fanwood/fanwood_text-webfont.svg') format('svg');
+  /* Legacy iOS */
+}
+@font-face {
+  font-family: 'Fanwood-Text';
+  src: url('../fonts/Fanwood/fanwood_text_italic-webfont.woff') format('woff'), /* Super Modern Browsers */ /* Pretty Modern Browsers */ url('../fonts/Fanwood/fanwood_text_italic-webfont.ttf') format('truetype'), /* Safari, Android, iOS */ url('../fonts/Fanwood/fanwood_text_italic-webfont.svg') format('svg');
+  /* Legacy iOS */
+  font-style: italic;
+}
 html {
   background: #000;
 }
 body {
   font-size: 100%;
-  font-family: 'Mate', sans-serif;
+  font-family: 'Fanwood', sans-serif;
   line-height: 1.5;
   background: #000;
   color: rgba(255, 255, 255, 0.7);
@@ -16,8 +36,11 @@ body h3,
 body h4,
 body h5 {
   color: #fff;
-  font-family: 'Merriweather';
+  font-family: 'Fanwood-Text';
   font-weight: 100;
+}
+body p {
+  font-size: 20px;
 }
 .container {
   width: 100%;

@@ -94,9 +94,9 @@
         <p class="fade">Who wrote <em>this?</em></p>
       </div>
       <div style='height:100px'></div>
-      <p class="fade" id='final'><a href="./end_camera_scene.html">Who was this by?</a></p>
+      <a style='text-decoration:none;' href="./end_camera_scene.html"><div class="fade button" id="final"><p>Who was this by?</p></div></a>
     </center>
-    <div style='height:1000px'></div>
+    <div style='height:500px'></div>
 
 	<!-- Insert this line above script imports  -->
 	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
@@ -127,6 +127,7 @@
       triggerHook: 0.55
     })
     .on("enter", function(){
+			$('#final').addClass('showit')
       $('.parallax').addClass('hide-for-parallax')
     })
     //.addIndicators()
