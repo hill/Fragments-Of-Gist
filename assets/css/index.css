@@ -53,9 +53,9 @@ body p {
 .container.out {
   opacity: 0;
 }
-.container > h1,
-.container > h2,
-.container > p {
+.container h1,
+.container h2,
+.container p {
   position: relative;
   z-index: 2;
   width: 80%;
@@ -93,7 +93,7 @@ body p {
   border-radius: 3px;
   padding: 20px;
   display: block;
-  top: 50%;
+  top: 30%;
   left: 10%;
   z-index: 1;
   -webkit-transform: translateY(-50%);
@@ -103,6 +103,12 @@ body p {
 .flowcontent .caption.right {
   left: auto;
   right: 10%;
+}
+.flowcontent .caption.caption_center {
+  left: auto;
+  right: auto;
+  text-align: center;
+  width: 100%;
 }
 .flowcontent .imageholder {
   background-size: cover;
@@ -116,7 +122,7 @@ body p {
   z-index: 0;
 }
 .flowcontent .imageholder.img1 {
-  background-image: url("https://dl.dropboxusercontent.com/u/8254962/rihanna-smoke.gif");
+  background-image: url("../img/sky.jpg");
 }
 .flowcontent .imageholder.img2 {
   background-image: url("https://dl.dropboxusercontent.com/u/8254962/pexels-photo-234078%401600px.jpeg");
@@ -149,7 +155,7 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     transform: translateY(0%);
   }
   50% {
-    transform: translateY(5px);
+    transform: translateY(3px);
     box-shadow: 0 11px 20px rgba(50, 50, 93, 0.1), 0 6px 11px rgba(0, 0, 0, 0.08);
   }
   100% {
@@ -161,7 +167,7 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     -webkit-transform: translateY(0%);
   }
   50% {
-    -webkit-transform: translateY(5px);
+    -webkit-transform: translateY(3px);
   }
   100% {
     -webkit-transform: translateY(0%);

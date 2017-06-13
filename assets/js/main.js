@@ -24,6 +24,10 @@ Mousetrap.bind(['command+g', 'ctrl+g'], function() {
   location = remote.app.getAppPath() + '/index.html';
 });
 
+Mousetrap.bind(['command+b', 'ctrl+b'], function() {
+  window.history.back();
+});
+
 var muted = false;
 Mousetrap.bind(['command+shift+m', 'ctrl+shift+m'], function(){
   if (!muted) {
@@ -44,7 +48,17 @@ setInterval(function(){
     console.log('COMPLETED')
     location = remote.app.getAppPath() + '/pages/end.html'
   }
-},5000)
+}, 5000)
+
+// Page turns
+function playPageTurn() {
+  var sounds = ['../../assets/sounds/paper_turn.mp3', '../../assets/sounds/page_turn_2.mp3', '../../assets/sounds/page_turn_3.mp3']
+  new Howl({
+      src: sounds[Math.floor(Math.random()*sounds.length)],
+      volume: 0.1,
+  }).play()
+}
+
 
 // init controller
 var controller = new ScrollMagic.Controller();

@@ -158,6 +158,16 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/assets\/css\/switch.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/switch-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/assets\/fonts\/Fanwood\/fanwood-webfont.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -427,6 +437,17 @@
 		"oAP": "\/assets\/img\/budgie.mp4",
 		"oF": 0
 		},
+	"\/assets\/img\/dead_dog.png": {
+		"ft": 32768,
+		"iS": 120744,
+		"oA": 0,
+		"oAP": "\/assets\/img\/dead_dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/divider.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -439,11 +460,55 @@
 		},
 	"\/assets\/img\/emojis.gif": {
 		"ft": 4194304,
-		"iS": 28250,
+		"iS": 272969,
 		"oA": 0,
 		"oAP": "\/assets\/img\/emojis.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
+		},
+	"\/assets\/img\/emojis\/building.png": {
+		"ft": 32768,
+		"iS": 50468,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/building.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/crystal_ball.png": {
+		"ft": 32768,
+		"iS": 56939,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/crystal_ball.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/knife.png": {
+		"ft": 32768,
+		"iS": 29610,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/knife.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/telephone.png": {
+		"ft": 32768,
+		"iS": 58204,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/telephone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/img\/emojis200.gif": {
 		"ft": 4194304,
@@ -574,6 +639,27 @@
 		"oAP": "\/assets\/img\/hitchcock.mp4",
 		"oF": 0
 		},
+	"\/assets\/img\/sky.jpg": {
+		"ft": 16384,
+		"iS": 2076166,
+		"oA": 0,
+		"oAP": "\/assets\/img\/sky.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/tartu_card.png": {
+		"ft": 32768,
+		"iS": 101424,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tartu_card.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/thumbs_down.png": {
 		"ft": 32768,
 		"iS": 38414,
@@ -661,6 +747,18 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/assets\/sounds\/call.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/call.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/chorale.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/chorale.mp3",
+		"oF": 0
+		},
 	"\/assets\/sounds\/Hitchcock_presents.mp3": {
 		"ft": 8192,
 		"oA": 2,
@@ -671,6 +769,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sounds\/orchestra_warmup.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/page_turn_2.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/page_turn_2.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/page_turn_3.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/page_turn_3.mp3",
 		"oF": 0
 		},
 	"\/assets\/sounds\/paper_turn.mp3": {
@@ -3924,6 +4034,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/pages\/acknowledgements.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/acknowledgements.html",
+		"oF": 0
+		},
 	"\/pages\/end.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -3942,22 +4058,28 @@
 		"oAP": "\/pages\/hitch_intro.html",
 		"oF": 0
 		},
-	"\/pages\/scenes\/L.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/pages\/scenes\/L.html",
-		"oF": 0
-		},
-	"\/pages\/scenes\/L_gesture.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/pages\/scenes\/L_gesture.html",
-		"oF": 0
-		},
 	"\/pages\/scenes\/scene_1.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/scenes\/scene_1.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/scene_2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/scene_2.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/scene_3_tel.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/scene_3_tel.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/tartu.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/tartu.html",
 		"oF": 0
 		},
 	"\/yarn.lock": {

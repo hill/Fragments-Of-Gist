@@ -2,7 +2,7 @@ var playing = false
 // Audio
 var hitchcock = new Howl({
     src: ['../assets/sounds/Hitchcock_presents.mp3'],
-    volume: 0.4,
+    volume: 0.6,
     onplay: function() {
       playing = true
     },
@@ -11,6 +11,10 @@ var hitchcock = new Howl({
       playing = false
     }
 });
+
+var chorale = new Howl({
+  src: ['../assets/sounds/chorale.mp3']
+})
 
 new ScrollMagic.Scene({
   triggerElement: '.trigger-ambient'
@@ -22,6 +26,35 @@ new ScrollMagic.Scene({
   }
 })
 //.addIndicators()
+.addTo(controller)
+
+new ScrollMagic.Scene({
+  triggerElement: '.the_meaning'
+})
+.on('enter', function(){
+  console.log('Entered Meaning');
+  hitchcock.fade(0.6, 0, 1000);
+  chorale.volume(1);
+  chorale.play();
+})
+.on("leave", function(ev){
+  console.log('Left Meaning')
+  chorale.fade(1,0,1000);
+  //chorale.stop();
+  hitchcock.fade(0, 0.6, 1000);
+})
+//.addIndicators()
+.addTo(controller)
+
+new ScrollMagic.Scene({
+  triggerElement: '#meaning_finish'
+})
+.on('enter', function() {
+  console.log('Left Meaning')
+  chorale.fade(1,0,1000);
+  //chorale.stop();
+  hitchcock.fade(0, 0.6, 1000);
+})
 .addTo(controller)
 
 function getGreetingTime (m) {

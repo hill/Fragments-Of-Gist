@@ -10,15 +10,25 @@
 .container.out { // DONT PUT THIS INSIDE IN CSS!!!! WHO KNOWS WHY...
   opacity: 0;
 }
-.container > h1,
-.container > h2,
-.container > p {
-  position: relative;
-  z-index: 2;
-  width: 80%;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+// .container > h1,
+// .container > h2,
+// .container > p {
+//   position: relative;
+//   z-index: 2;
+//   width: 80%;
+//   max-width: 600px;
+//   margin-left: auto;
+//   margin-right: auto;
+// }
+.container {
+  h1,h2,p {
+      position: relative;
+      z-index: 2;
+      width: 80%;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+  }
 }
 .fade {
   -webkit-transition: all 0.6s;
@@ -50,7 +60,7 @@
   border-radius: 3px;
   padding: 20px;
   display: block;
-  top: 50%;
+  top: 30%;
   left: 10%;
   z-index: 1;
   -webkit-transform: translateY(-50%);
@@ -60,6 +70,12 @@
 .flowcontent .caption.right {
   left: auto;
   right: 10%;
+}
+.flowcontent .caption.caption_center {
+  left: auto;
+  right: auto;
+  text-align: center;
+  width: 100%;
 }
 .flowcontent .imageholder {
   background-size: cover;
@@ -73,7 +89,7 @@
   z-index: 0;
 }
 .flowcontent .imageholder.img1 {
-  background-image: url("https://dl.dropboxusercontent.com/u/8254962/rihanna-smoke.gif");
+  background-image: url("../img/sky.jpg");
 }
 .flowcontent .imageholder.img2 {
   background-image: url("https://dl.dropboxusercontent.com/u/8254962/pexels-photo-234078%401600px.jpeg");
@@ -107,7 +123,7 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     transform: translateY(0%);
   }
   50% {
-    transform: translateY(5px);
+    transform: translateY(3px);
     box-shadow: 0 11px 20px rgba(50,50,93,.1), 0 6px 11px rgba(0,0,0,.08);
   }
   100% {
@@ -119,7 +135,7 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     -webkit-transform: translateY(0%);
   }
   50% {
-    -webkit-transform: translateY(5px);
+    -webkit-transform: translateY(3px);
   }
   100% {
     -webkit-transform: translateY(0%);

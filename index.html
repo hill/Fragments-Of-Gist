@@ -56,23 +56,22 @@
 	<body>
 		<div class='iCantThinkOfAName'>
 			<!-- <h2>English Extension 2 Submission</h2> -->
-			<h2>Fragments of Gist</h2>
-			<div style="height:50px;"></div>
 			<h3>28771800</h3>
-			<p>(headphones recommended)</p>
-			<a href="pages/hitch_intro.html"><div class="button">
-			  start
-			</div></a>
+			<div style="height:50px;"></div>
+
+			<h1>Fragments of Gist</h1>
+			<p>(headphones &amp; webcam recommended)</p>
+			<a href="pages/hitch_intro.html">
+				<div class="button">start</div>
+			</a>
+			<a onclick="Howler.mute(true)" style="font-size:12px;">Mute</a>
+			<a href='pages/acknowledgements.html' style="font-size:12px;text-decoration:underline;">Acknowledgements</a>
 		</div>
 
 		<script type="text/javascript">
 			const project = require('./package.json')
 			const os = require('os')
 			const howler = require('howler')
-			// document.getElementById('version').innerHTML = project.version
-			// document.getElementById('type').innerHTML = os.type()
-			// document.getElementById('system').innerHTML = os.platform()
-			// document.getElementById('osversion').innerHTML = os.release()
 			console.log(project.version)
       console.log(os.release())
 
@@ -81,7 +80,7 @@
 			    volume: 0.4,
 			}).play();
 
-      Howler.mute(true)
+
 		</script>
 	</body>
 </html>

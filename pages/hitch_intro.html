@@ -5,7 +5,7 @@
 	<body>
 
 		<center>
-			<img class='emoji' src="../assets/img/emojislarge.gif">
+			<img class='emoji' src="../assets/img/emojis.gif">
       <!-- <p class='emoji'>😀</p> -->
 		</center>
 
@@ -42,7 +42,7 @@
 			</center>
 			<p class="fade">No. Far too vauge. How about this:</p>
 			<center>
-				<h2 class='fade'><em>The Story of Morris, Jen, A Dog Named Tank and Their Fantastic Adventure of Ikea Furnature, Loose Screws and Dead Pets.</em></h2>
+				<h2 class='fade'><em>The Story of Morris, Lexi, A Dog Named Tank and Their Fantastic Adventure of Ikea Furnature, Loose Screws and Dead Pets.</em></h2>
 			</center>
 			<p class="fade">Ah fantastic. Nothing up to interpretation now! They'll get the gist straight away! They'll love it.</p>
 			<div style='height:150px;'></div>
@@ -52,10 +52,15 @@
 			<p class="fade"><strike>Then they</strike> then YOU would not understand.</p>
 			<p class="fade">Then you wouldn't get it.</p>
 			<p class="fade">You wouldn't get:</p>
-			<center>
-				<h2 class='fade'>The Message</h2>
-			</center>
-			<p class="fade">All that meaning! Wasted! Lost!</p>
+			<div class="flowcontent flow the_meaning">
+				<div class="imageholder img1"></div>
+				<center>
+			    <div class="caption caption_center">
+				    	<h2>The Meaning</h2>
+			    </div>
+				</center>
+		  </div>
+			<p class="fade" id="meaning_finish">All that meaning! Wasted! Lost!</p>
 			<div style='height:150px;'></div>
 			<p class="fade">That would be sad.</p>
 			<div style='height:150px;'></div>
@@ -66,7 +71,7 @@
 			<p class="fade">You could have a chance at changing the narrative.</p>
 			<p class="fade">I mean. I think it will be pretty difficult to improve upon:</p>
 			<center>
-				<h2 class='fade'><em>The Story of Morris, Jen, A Dog Named Tank and Their Fantastic Adventure of Ikea Furnature, Loose Screws and Dead Pets.</em></h2>
+				<h2 class='fade'><em>The Story of Morris, Lexi, A Dog Named Tank and Their Fantastic Adventure of Ikea Furnature, Loose Screws and Dead Pets.</em></h2>
 			</center>
 			<p class='fade'>... for it is flawless. But I suppose we could at least try.</p>
 			<p class='fade'>For the reader's sake.</p>
@@ -86,27 +91,20 @@
 		      <p></p>
 		    </div>
 		  </div>
-		  <!-- <div class="flowcontent flow">
-				<video autoplay="autoplay" poster="http://gifly.com//media_gifly/5/t/H/2/b/5tH2.jpg" loop="" muted="">
-		      <source src="../assets/img/hitchcock.mp4" type="video/mp4"/>
-		    </video>
-		    <div class="caption right">
-		      <h4>"She sat there in silence and waited."</h4>
-		      <p>Pexels image</p>
-		    </div>
-		  </div> -->
 		  	<p class="fade">I suppose all that's left to be done is to flick the switch:</p>
-				<p class="fade"><a href="scenes/scene_1.html">There will be a switch here</a></p>
+				<!-- <p class="fade"><a href="scenes/scene_1.html">There will be a switch here</a></p> -->
+				<section id="Wrapper" class="dark fade">
+				  <div class="switch switchLightOff">
+				    <div class="hole holeLightOff">
+				      <div class="handle handleLightOff">
+				        <p>I<br /><span class="sk">O</span></p>
+				        <div class="handleTop handleTopLightOff"></div>
+				        <div class="handleBottom handleBottomLightOff"></div>
+				      </div>
+				    </div>
+  				</div>
+				</section>
 			<div style='height: 500px;'></div>
-		  <!-- <div class="flowcontent flow">
-		    <video autoplay="autoplay" poster="http://gifly.com//media_gifly/7/n/K/c/b/7nKc.jpg" loop="" muted="">
-		      <source src="http://gifly.com//media_gifly/7/n/K/c/b/7nKc.mp4" type="video/mp4"/>
-		    </video>
-		    <div class="caption">
-		      <h4>Weird monochromatic video</h4>
-		      <p>Gifly mp4 video</p>
-		    </div>
-		  </div> -->
 		  <p class="fade">...Alternatively you could just keep scrolling. I mean, that's fine, I guess.</p>
 
 		  <p class="fade">
@@ -127,6 +125,38 @@
 	<script src="../assets/js/main.js"></script>
 	<!-- PAGE SPECIFIC SCRIPTS -->
 	<script src="../assets/js/page-specific/hitch_intro.js" charset="utf-8"></script>
+	<script type="text/javascript">
+	$(function() {
+		$('.switch').click(function() {
+			if( $(".switch").hasClass("switchLightOff") ) {
+				$(".switch").removeClass("switchLightOff"),
+				$(".switch").addClass("switchLightOn"),
+				$("#Wrapper").removeClass("dark"),
+				$(".hole").removeClass("holeLightOff"),
+				$(".hole").addClass("holeLightOn"),
+				$(".handle").removeClass("handleLightOff"),
+				$(".handle").addClass("handleLightOn"),
+				$(".sk").addClass("on"),
+				$(".handleTop").removeClass("handleTopLightOff"),
+				$(".handleTop").addClass("handleTopLightOn"),
+				$(".handleBottom").removeClass("handleBottomLightOff"),
+				$(".handleBottom").addClass("handleBottomLightOn");
+			} else {
+				$(".switch").addClass("switchLightOff"),
+				$("#Wrapper").addClass("dark"),
+				$(".hole").removeClass("holeLightOn"),
+				$(".hole").addClass("holeLightOff"),
+				$(".handle").removeClass("handleLightOn"),
+				$(".handle").addClass("handleLightOff"),
+				$(".sk").removeClass("on"),
+				$(".handleTop").removeClass("handleTopLightOn"),
+				$(".handleTop").addClass("handleTopLightOff"),
+				$(".handleBottom").removeClass("handleBottomLightOn"),
+				$(".handleBottom").addClass("handleBottomLightOff");
+			}
+		});
+	});
+	</script>
 
 
 	<!-- Insert this line after script imports -->
