@@ -91,7 +91,6 @@ body p {
 .flowcontent .caption {
   position: absolute;
   border-radius: 3px;
-  padding: 20px;
   display: block;
   top: 30%;
   left: 10%;
@@ -280,7 +279,7 @@ body a {
   display: inline-block;
 }
 .choice_container .choice img {
-  max-width: 90px;
+  width: 100px;
   display: inline-block;
 }
 .choice_container .choice:hover {
@@ -294,5 +293,54 @@ body a {
 }
 .choice_container .c_right {
   float: right;
+}
+.conversation p {
+  font-style: italic;
+}
+.conversation .c_left {
+  text-align: left;
+}
+.conversation .c_right {
+  text-align: right;
+}
+.strike {
+  text-decoration: line-through;
+  transition: 0.2s;
+}
+.button {
+  border: 1px solid black;
+  max-width: 300px;
+  text-align: center;
+  height: 50px;
+  margin: 0 auto;
+  transition: 0.5s;
+}
+.button p {
+  color: black;
+  text-decoration: none;
+  margin: 0;
+  line-height: 50px;
+  width: 100%;
+}
+.button:hover {
+  background-color: black;
+  color: white;
+}
+.button:hover P {
+  color: white;
+}
+.hidden {
+  opacity: 0;
+  transition: 2s;
+}
+.showit {
+  opacity: 1;
+  transition: 2s;
+}
+.spec {
+  text-align: center;
+}
+.spec output {
+  color: black;
 }
 /*# sourceMappingURL=book.css.map */

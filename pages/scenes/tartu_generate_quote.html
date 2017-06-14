@@ -1,0 +1,101 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="../../assets/css/book.css">
+	</head>
+	<body>
+
+  <div class="container">
+
+    <p class='strike' style="text-align:center;">“Your Tank is never dead. Your Lexi is not a killer. Your life is free because everything is free. Nothing dies. Nothing is born. We are all one and the same. A single being reinvented as everything else. I am you. You am I. Everything is everyone. A single consciousness.”</p>
+
+
+    <div class="narration left">
+ 			<p>Ok...Let's try this again. Something a little more generic. Something our reader can really connect with.</p>
+    </div>
+
+    <div class="generic"></div>
+
+    <a style='text-decoration:none;cursor:pointer;' onclick='markovIt("generic")' ><div class="button"><p>Write Some Generic Advice</p></div></a>
+
+    <div class="showLater hidden">
+      <div class="narration center">
+   			<p>Hmmmm, I still think we're being too specific. There's still too much intentional meaning in that. Let's turn it down a little.</p>
+      </div>
+
+      <div class="unspecific"></div>
+      <div class="spec">
+        <input type="range" min="1" max="6" value="6" id="fader" step="1" oninput="outputUpdate(value)">
+        <br /><output for="fader" id="output">Very Specific</output>
+        <a style='text-decoration:none;cursor:pointer;' onclick='unspecificMarkov()' ><div class="button"><p>Write Some Generic Advice</p></div></a>
+      </div>
+    </div>
+
+    <div class="showLaterOther hidden">
+      <div class="narration center">
+   			<p>Ah! Look at that. Much better. The audience can finally get what the really <em>need</em>: Whatever they want!<br>They can interpret that little spec of genius however they wish!</p>
+        <p>Humans will tend to infuse patterns with meaning, intention and agency.</p>
+        <p><em>Meaningful patterns in meaningless noise</em></p>
+        <p>It's not to say that there is no meaning there. Your meaning is there. Finally! <em>The Freudian Slip</em> applied to literature. <em>My</em> literature. <em>Your</em> meaning.</p>
+        <p>Apophenia has no place here.</p>
+        <div class="choice_container">
+  				<div class="choice center">
+  					<a href="resolution.html"><img src="../../assets/img/emojis/checkflag.png" alt=""></a>
+  				</div>
+  			</div>
+      </div>
+    </div>
+
+
+  </div>
+
+
+	<!-- Insert this line above script imports  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+	<!-- MAIN SCRIPT  -->
+	<script src="../../assets/js/main.js"></script>
+	<!-- PAGE SPECIFIC SCRIPTS -->
+  <!-- P5 -->
+  <script src="../../assets/js/p5.min.js" charset="utf-8"></script>
+  <script src="../../assets/js/p5.dom.min.js" charset="utf-8"></script>
+  <script src="../../assets/js/p5.sound.min.js" charset="utf-8"></script>
+  <script src="../../assets/js/page-specific/tartu.js" charset="utf-8"></script>
+  <script type="text/javascript">
+
+		playPageTurn()
+
+    function outputUpdate(vol) {
+      console.log('Vol is '+ vol)
+      var value = ''
+      switch (vol) {
+          case '0':
+              value = "Not Specific At All!";
+              break;
+          case '1':
+              value = "Not Specific At All!";
+              break;
+          case '2':
+              value = "Not Really That Specific";
+              break;
+          case '3':
+              value = "Kinda Specific";
+              break;
+          case '4':
+              value = "Specific";
+              break;
+          case '5':
+              value = "Quite Specific";
+              break;
+          case '6':
+              value = "Very Specific";
+      }
+	    document.querySelector('#output').value = value;
+    }
+
+  </script>
+
+	<!-- Insert this line after script imports -->
+	<script>if (window.module) module = window.module;</script>
+
+	</body>
+</html>

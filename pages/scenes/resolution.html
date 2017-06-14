@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="../../assets/css/book.css">
+	</head>
+	<body>
+
+  <div class="container">
+    <p>... and finally, Morris was satisfied.</p>
+
+		<div class="divider">
+			<img src="../../assets/img/divider.svg" alt="">
+		</div>
+
+    <h1 style="text-align:center;">The End</h1>
+
+    <div class="divider">
+			<img src="../../assets/img/divider.svg" alt="">
+		</div>
+
+    <div class="narration left">
+      <p>... and finally the reader was satisfied.</p>
+			<p>They finally understood. They finally understood the greater meaning.</p>
+			<div style='height:50px;'></div>
+			<p>But I think we can do better.</p>
+			<p>Let's have another shot at this.</p>
+			<div class="choice_container">
+				<div class="choice center">
+					<a id="switch" style='cursor:pointer;'><img src="../../assets/img/emojis.gif" style='width:100px;' alt=""></a>
+				</div>
+			</div>
+    </div>
+
+  </div>
+
+
+	<!-- Insert this line above script imports  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+	<!-- MAIN SCRIPT  -->
+	<script src="../../assets/js/main.js"></script>
+	<!-- PAGE SPECIFIC SCRIPTS -->
+  <script type="text/javascript">
+		playPageTurn()
+
+		$('#switch').click(function(){
+			new Howl({
+				src: '../../assets/sounds/rip.mp3',
+				volume: 1.5,
+				onend: function() {
+					window.location = 'scene_1.html';
+				}
+			}).play()
+		})
+
+
+  </script>
+
+	<!-- Insert this line after script imports -->
+	<script>if (window.module) module = window.module;</script>
+
+	</body>
+</html>

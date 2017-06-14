@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/assets\/content\/quotes.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/content\/quotes.txt",
+		"oF": 0
+		},
 	"\/assets\/css\/animations.less": {
 		"aP": 0,
 		"bl": 0,
@@ -37,16 +43,10 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/book-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/assets\/css\/book.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/book.css.map",
-		"oF": 0
 		},
 	"\/assets\/css\/book.less": {
 		"aP": 0,
@@ -70,16 +70,10 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/camera-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/assets\/css\/camera.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/camera.css.map",
-		"oF": 0
 		},
 	"\/assets\/css\/camera.less": {
 		"aP": 0,
@@ -103,7 +97,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/foundation.min-min.css",
 		"oF": 0,
 		"oS": 0
@@ -113,16 +107,10 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/index-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/assets\/css\/index.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/index.css.map",
-		"oF": 0
 		},
 	"\/assets\/css\/index.less": {
 		"aP": 0,
@@ -163,10 +151,27 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/switch-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/assets\/css\/switch.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/css\/switch.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
 		},
 	"\/assets\/fonts\/Fanwood\/fanwood-webfont.eot": {
 		"ft": 8192,
@@ -477,6 +482,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/emojis\/checkflag.png": {
+		"ft": 32768,
+		"iS": 47600,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/checkflag.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/emojis\/crystal_ball.png": {
 		"ft": 32768,
 		"iS": 56939,
@@ -504,6 +520,17 @@
 		"iS": 58204,
 		"oA": 0,
 		"oAP": "\/assets\/img\/emojis\/telephone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/writing_hand.png": {
+		"ft": 32768,
+		"iS": 38975,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/writing_hand.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -646,7 +673,7 @@
 		"oAP": "\/assets\/img\/sky.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/tartu_card.png": {
@@ -720,6 +747,33 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/assets\/js\/p5.dom.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/p5.dom.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/p5.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/p5.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/p5.sound.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/p5.sound.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/assets\/js\/page-specific\/camera.js": {
 		"ft": 64,
 		"mi": 0,
@@ -734,6 +788,15 @@
 		"mi": 0,
 		"oA": 1,
 		"oAP": "\/assets\/js\/page-specific\/hitch_intro-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/page-specific\/tartu.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/page-specific\/tartu-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -757,6 +820,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sounds\/chorale.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/entrance.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/entrance.mp3",
 		"oF": 0
 		},
 	"\/assets\/sounds\/Hitchcock_presents.mp3": {
@@ -789,10 +858,52 @@
 		"oAP": "\/assets\/sounds\/paper_turn.mp3",
 		"oF": 0
 		},
+	"\/assets\/sounds\/pen_scratch\/pen_scratch_1.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/pen_scratch\/pen_scratch_1.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/pen_scratch\/pen_scratch_2.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/pen_scratch\/pen_scratch_2.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/pen_scratch\/pen_scratch_3.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/pen_scratch\/pen_scratch_3.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/pen_scratch\/pen_scratch_4.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/pen_scratch\/pen_scratch_4.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/pen_scratch\/pen_scratch_5.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/pen_scratch\/pen_scratch_5.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/rip.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/rip.mp3",
+		"oF": 0
+		},
 	"\/assets\/sounds\/street_ambience.mp3": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sounds\/street_ambience.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/switch.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/switch.mp3",
 		"oF": 0
 		},
 	"\/dist\/The Platform-darwin-x64\/LICENSE": {
@@ -4058,6 +4169,12 @@
 		"oAP": "\/pages\/hitch_intro.html",
 		"oF": 0
 		},
+	"\/pages\/scenes\/resolution.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/resolution.html",
+		"oF": 0
+		},
 	"\/pages\/scenes\/scene_1.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -4070,6 +4187,12 @@
 		"oAP": "\/pages\/scenes\/scene_2.html",
 		"oF": 0
 		},
+	"\/pages\/scenes\/scene_3_revenge.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/scene_3_revenge.html",
+		"oF": 0
+		},
 	"\/pages\/scenes\/scene_3_tel.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -4080,6 +4203,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/scenes\/tartu.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/tartu_generate_quote.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/tartu_generate_quote.html",
 		"oF": 0
 		},
 	"\/yarn.lock": {
@@ -5820,7 +5949,7 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",

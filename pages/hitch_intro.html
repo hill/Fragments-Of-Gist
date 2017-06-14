@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="../assets/css/index.css">
+		<link rel="stylesheet" href="../assets/css/switch.css">
 	</head>
 	<body>
 
@@ -87,7 +88,7 @@
 		      <source src="../assets/img/budgie.mp4" type="video/mp4"/>
 		    </video>
 		    <div class="caption">
-		      <h2>... don't let it bite</h2>
+		      <h2 style="width: 100%;">... don't let it bite</h2>
 		      <p></p>
 		    </div>
 		  </div>
@@ -104,14 +105,9 @@
 				    </div>
   				</div>
 				</section>
-			<div style='height: 500px;'></div>
-		  <p class="fade">...Alternatively you could just keep scrolling. I mean, that's fine, I guess.</p>
-
-		  <p class="fade">
-				<a href="end_camera_scene.html">Inconspicious link to camera scene.</a>
-				<a href="scenes/scene_1.html">Inconspicious link to SCENE 1</a>
-				Meatball shoulder capicola, flank pork chop prosciutto turkey short ribs t-bone short loin. Doner beef ribs drumstick tail. Beef ribs flank pastrami bresaola andouille pig shankle ham hock boudin prosciutto. Swine bresaola shoulder filet mignon hamburger, landjaeger beef cow kielbasa flank strip steak. Turducken filet mignon swine, kielbasa shank boudin drumstick.</p>
-		  <p class="fade">Venison hamburger sirloin, pork belly beef ribs spare ribs biltong swine fatback capicola. Corned beef chicken tail, beef ribs porchetta ham hock fatback sausage capicola meatloaf swine shoulder tongue. Short loin ball tip strip steak, tri-tip picanha shank burgdoggen pork pancetta kielbasa venison porchetta leberkas chuck andouille. Short loin pancetta spare ribs, pig jerky pork loin cow boudin landjaeger swine jowl. Capicola bacon jerky pastrami ham hock bresaola leberkas.</p>
+			<div style='height: 50px;'></div>
+		  <p class="">...Alternatively you could just keep scrolling. I mean, that's fine, I guess. YOU'RE IN CONTROL!</p>
+			<div style='height: 130px;'></div>
 		</div>
 
 	<!-- Insert this line above script imports  -->
@@ -141,6 +137,20 @@
 				$(".handleTop").addClass("handleTopLightOn"),
 				$(".handleBottom").removeClass("handleBottomLightOff"),
 				$(".handleBottom").addClass("handleBottomLightOn");
+
+				// Do when switch clicks
+				$("html").addClass("whiteBG")
+				hitchcock.stop();
+
+				new Howl({
+					src: '../assets/sounds/switch.mp3',
+					volume: 0.8,
+					onend: function() {
+			      window.location = 'scenes/scene_1.html';
+			    }
+				}).play()
+
+
 			} else {
 				$(".switch").addClass("switchLightOff"),
 				$("#Wrapper").addClass("dark"),

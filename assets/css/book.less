@@ -60,7 +60,7 @@ html,body {
     text-align: center;
     display: inline-block;
     img {
-      max-width: 90px;
+      width: 100px;
       display: inline-block;
     }
     &:hover {
@@ -78,4 +78,62 @@ html,body {
     float: right;
   }
 
+}
+
+.conversation {
+  p {
+    font-style: italic;
+  }
+  .c_left {
+    text-align: left;
+  }
+  .c_right {
+    text-align: right;
+  }
+}
+
+.strike {
+  text-decoration: line-through;
+  transition: 0.2s;
+}
+
+.button {
+  border: 1px solid black;
+  max-width: 300px;
+  text-align: center;
+  height: 50px;
+  margin: 0 auto;
+  transition: 0.5s;
+  p {
+    color: black;
+    text-decoration: none;
+    margin: 0;
+    line-height: 50px;
+    width: 100%;
+  }
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+  P {
+    color: white;
+  }
+}
+
+.hidden {
+  opacity: 0;
+  transition: 2s;
+}
+
+.showit {
+  opacity: 1;
+  transition: 2s;
+}
+
+.spec {
+  text-align: center;
+  output {
+    color: black;
+  }
 }
