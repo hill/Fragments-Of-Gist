@@ -48,6 +48,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/assets\/css\/book.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/book.css.map",
+		"oF": 0
+		},
 	"\/assets\/css\/book.less": {
 		"aP": 0,
 		"bl": 0,
@@ -111,6 +117,12 @@
 		"oAP": "\/assets\/css\/index-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/assets\/css\/index.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/index.css.map",
+		"oF": 0
 		},
 	"\/assets\/css\/index.less": {
 		"aP": 0,
@@ -436,6 +448,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/img\/bookshelf.jpg": {
+		"ft": 16384,
+		"iS": 26058,
+		"oA": 0,
+		"oAP": "\/assets\/img\/bookshelf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/budgie.mp4": {
 		"ft": 8192,
 		"oA": 2,
@@ -471,11 +493,66 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/assets\/img\/emojis\/bacon.png": {
+		"ft": 32768,
+		"iS": 55857,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/bacon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/book.png": {
+		"ft": 32768,
+		"iS": 54092,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/book.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/emojis\/building.png": {
 		"ft": 32768,
 		"iS": 50468,
 		"oA": 0,
 		"oAP": "\/assets\/img\/emojis\/building.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/car.png": {
+		"ft": 32768,
+		"iS": 47736,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/car.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/cat.png": {
+		"ft": 32768,
+		"iS": 53469,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/cat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/cat_scream.png": {
+		"ft": 32768,
+		"iS": 58776,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/cat_scream.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -504,6 +581,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/emojis\/dog.png": {
+		"ft": 32768,
+		"iS": 52336,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/dog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/eyes.png": {
+		"ft": 32768,
+		"iS": 29294,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/eyes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/emojis\/knife.png": {
 		"ft": 32768,
 		"iS": 29610,
@@ -515,11 +614,77 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/emojis\/megaphone.png": {
+		"ft": 32768,
+		"iS": 49000,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/megaphone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/microphone.png": {
+		"ft": 32768,
+		"iS": 41725,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/microphone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/penlock.png": {
+		"ft": 32768,
+		"iS": 57486,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/penlock.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/scales.png": {
+		"ft": 32768,
+		"iS": 43195,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/scales.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/speak_monkey.png": {
+		"ft": 32768,
+		"iS": 56461,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/speak_monkey.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/emojis\/telephone.png": {
 		"ft": 32768,
 		"iS": 58204,
 		"oA": 0,
 		"oAP": "\/assets\/img\/emojis\/telephone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/emojis\/traffic.png": {
+		"ft": 32768,
+		"iS": 37789,
+		"oA": 0,
+		"oAP": "\/assets\/img\/emojis\/traffic.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -682,8 +847,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/img\/tartu_card.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -792,6 +957,15 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/assets\/js\/page-specific\/stylistic.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/page-specific\/stylistic-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/assets\/js\/page-specific\/tartu.js": {
 		"ft": 64,
 		"mi": 0,
@@ -806,6 +980,15 @@
 		"mi": 0,
 		"oA": 1,
 		"oAP": "\/assets\/js\/rellax.min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/rita-full.min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/assets\/js\/rita-full.min-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -892,6 +1075,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sounds\/rip.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/spoken_aggressive.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/spoken_aggressive.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/spoken_calm.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/spoken_calm.mp3",
 		"oF": 0
 		},
 	"\/assets\/sounds\/street_ambience.mp3": {
@@ -4169,10 +4364,46 @@
 		"oAP": "\/pages\/hitch_intro.html",
 		"oF": 0
 		},
+	"\/pages\/scenes\/drive_ikea.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/drive_ikea.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/lexi_house.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/lexi_house.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/lexi_house_1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/lexi_house_1.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/lexi_house_2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/lexi_house_2.html",
+		"oF": 0
+		},
 	"\/pages\/scenes\/resolution.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/scenes\/resolution.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/revenge_emphesis.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/revenge_emphesis.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/scales.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/scales.html",
 		"oF": 0
 		},
 	"\/pages\/scenes\/scene_1.html": {
@@ -4197,6 +4428,24 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/pages\/scenes\/scene_3_tel.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/spoken.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/spoken.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/stylistic.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/stylistic.html",
+		"oF": 0
+		},
+	"\/pages\/scenes\/syllables.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/pages\/scenes\/syllables.html",
 		"oF": 0
 		},
 	"\/pages\/scenes\/tartu.html": {

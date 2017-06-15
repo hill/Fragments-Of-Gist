@@ -1,0 +1,98 @@
+<!-- TODO: Emphesis Scene -->
+<!-- TODO: Emphesis scene with speech -->
+<!-- TODO: Emphesis scene with colour. -->
+
+<html>
+	<head>
+		<link rel="stylesheet" href="../../assets/css/book.css">
+	</head>
+	<body>
+
+  <div class="container">
+		<center>
+			<img style='width: 80px;' src="../../assets/img/emojis/eyes.png" alt="">
+			<p style='font-size:15px;'>From The Eyes Of</p>
+			<h2 style='font-size:42px;margin:5px;' id='name'>The Author</h2>
+			<a style='cursor:pointer;' onclick="emphesiseMe()"><div class="button">
+				<p>New Reader</p>
+			</div></a>
+		</center>
+
+
+		<div class="toEmp">
+	    <p>Lexi. Morris knew it. Lexi had a thing for not following instructions. For not reading the lines carefully.</p>
+	    <p>Poorly interpreting the words on the IKEA instruction pamphlets. They’re not even words! They’re symbols! Does she not understand simple spatial reasoning? Morris takes a deep sigh. He looks back at Tank. He’ll have to deal with the dog later. Now there is a much more important job. Dealing with Lexi. Expressing his pain to his ignorant girlfriend.</p>
+	    <p>He closes the door behind him as he heads down the fifty four stairs. Morris enters the shared garage and finds his car in lot thirty three. He unlocks the car, slumps into the front seat and turns the ignition.</p>
+	    <p>The engine revs, the car lurches forward and speeds out of the garage. Pedestrians leap out of the way as the car hurdles down Carlisle Street.</p>
+	    <p>Expressing his pain to his ignorant girlfriend.</p>
+	    <p>Expressing <em>his</em> pain to his ignorant girlfriend.</p>
+	    <p>What better way to express pain then through retribution. Make the perpetrator feel the crime. Make Lexi feel the consequence of her action.</p>
+	    <p>The car flies down the streets. A blur of violent red amongst a backdrop of luscious green foliage. </p>
+	    <p>Morris isn't going to speak to Lexi. </p>
+	    <p>Morris is going to <em>speak</em> to Lexi.</p>
+		</div>
+
+    <div class="narration center">
+			<p>Do you see what I mean! It's a disaster! Even Proust has emphasized (pun not intended) the increadibly verbal and essentially chance nature of literature.</p>
+			<p>I need to reduce all interpretation to the minimum. I need to spell out each and every syllable. The audience will say it just as I want and will get <em>only</em> my version of the meaning.</p>
+			<p>But, as Bathes notes: literature is performative. So shall we perform? Place our own verbal nuances and intonation to shape our meaning. We shall finally gain that intimate connection between Author and Audience. You will finally understand.</p>
+			<p>Should we perform our piece or should we scribe our piece in intense detail?</p>
+			<div class="choice_container">
+				<div class="choice">
+					<a href="syllables.html"><img src="../../assets/img/emojis/penlock.png"></a>
+				</div>
+				<div class="choice c_right">
+					<a href="spoken.html"><img src="../../assets/img/emojis/microphone.png"></a>
+				</div>
+			</div>
+    </div>
+
+  </div>
+
+
+	<!-- Insert this line above script imports  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+	<!-- MAIN SCRIPT  -->
+	<script src="../../assets/js/main.js"></script>
+	<!-- PAGE SPECIFIC SCRIPTS -->
+  <script type="text/javascript">
+
+		playPageTurn()
+
+		var names = ['Yon Semmes', 'Lucile Cobbs', 'Misti Krieg', 'Lezlie Westergard', 'Peter Webb', 'Lloyd Rapoza', 'Serina Wetmore', 'Torrie Peacock', 'Allen Watford', 'Joseph Morrison', 'Sharita Kubicek', 'Hilary Helgren', 'Anika Carden', 'Loree Mayhan', 'John Simmons', 'Greg Soma', 'Prue Gilbert', 'Sarah Horsely']
+
+		function emphesiseMe() {
+
+			$('#name').html(names[Math.floor(Math.random()*names.length)])
+
+			console.log('EMPHASISED!')
+
+			$('.toEmp').children().each(function(index){
+				var pText = $(this).text()
+				var pTextList = pText.split(' ')
+				var newPList = []
+				for (var i = 0; i < pTextList.length; i++){
+					if (Math.random() > 0.7) {
+						newPList.push('<em>' + pTextList[i] + '</em>')
+					} else if (Math.random() < 0.2) {
+						newPList.push('<strong>' + pTextList[i] + '</strong>')
+					} else if (Math.random() < 0.4 && Math.random() > 0.2) {
+						newPList.push('<span style="text-decoration:underline;">' + pTextList[i] + '</span>')
+					} else {
+						newPList.push(pTextList[i])
+					}
+				}
+
+				$(this).html( newPList.join(' ') );
+			})
+
+		}
+
+  </script>
+
+	<!-- Insert this line after script imports -->
+	<script>if (window.module) module = window.module;</script>
+
+	</body>
+</html>

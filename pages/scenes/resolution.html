@@ -17,12 +17,13 @@
 			<img src="../../assets/img/divider.svg" alt="">
 		</div>
 
-    <div class="narration left">
+    <div class="narration center">
       <p>... and finally the reader was satisfied.</p>
 			<p>They finally understood. They finally understood the greater meaning.</p>
 			<div style='height:50px;'></div>
 			<p>But I think we can do better.</p>
 			<p>Let's have another shot at this.</p>
+			<p style='text-align:center;'><em>Let's Rewrite</em></p>
 			<div class="choice_container">
 				<div class="choice center">
 					<a id="switch" style='cursor:pointer;'><img src="../../assets/img/emojis.gif" style='width:100px;' alt=""></a>
@@ -48,6 +49,7 @@
 				volume: 1.5,
 				onend: function() {
 					window.location = 'scene_1.html';
+					$('.blackout').addClass('fadeIn');
 				}
 			}).play()
 		})

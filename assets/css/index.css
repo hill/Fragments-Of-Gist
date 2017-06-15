@@ -201,6 +201,56 @@ floating (from http://www.justinaguilar.com/animations/css/animations.css)
     -webkit-transform: rotate(0deg);
   }
 }
+@-webkit-keyframes intro {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(40px);
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes intro {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(40px);
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@-webkit-keyframes finger {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
+    -webkit-transform: translateY(15px);
+    transform: translateY(15px);
+  }
+}
+@keyframes finger {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
+    -webkit-transform: translateY(15px);
+    transform: translateY(15px);
+  }
+}
 h1 {
   font-size: 90px;
   line-height: 1.1;
@@ -234,16 +284,37 @@ p {
 }
 .scrolldown {
   position: absolute;
-  bottom: 0;
+  bottom: 30px;
   left: 0;
   right: 0;
   height: 50px;
+  width: 100%;
   text-align: center;
   transition: 2s;
 }
 .scrolldown img {
   opacity: 0.2;
   max-width: 30px;
+}
+.mouse {
+  opacity: 0.6;
+  width: 22px;
+  height: 42px;
+  margin: 0 auto;
+  border-radius: 15px;
+  border: 2px solid #888;
+  -webkit-animation: intro 1s;
+  animation: intro 1s;
+}
+.scroll {
+  display: block;
+  width: 3px;
+  height: 3px;
+  margin: 6px auto;
+  border-radius: 4px;
+  background: #888;
+  -webkit-animation: finger 2s infinite;
+  animation: finger 2s infinite;
 }
 .row {
   max-width: 90%;

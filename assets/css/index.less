@@ -43,16 +43,39 @@ p {
 
 .scrolldown {
   position: absolute;
-  bottom: 0;
+  bottom: 30px;
   left: 0;
   right: 0;
   height: 50px;
+  width: 100%;
   text-align: center;
   transition: 2s;
   img {
     opacity: 0.2;
     max-width: 30px;
   }
+}
+
+.mouse {
+  opacity: 0.6;
+  width: 22px;
+  height: 42px;
+  margin: 0 auto;
+  border-radius: 15px;
+  border: 2px solid #888;
+  -webkit-animation: intro 1s;
+  animation: intro 1s;
+}
+
+.scroll {
+  display: block;
+  width: 3px;
+  height: 3px;
+  margin: 6px auto;
+  border-radius: 4px;
+  background: #888;
+  -webkit-animation: finger 2s infinite;
+  animation: finger 2s infinite;
 }
 
 .row {

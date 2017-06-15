@@ -1,0 +1,100 @@
+<!-- TODO: Emphesis Scene -->
+<!-- TODO: Emphesis scene with speech -->
+<!-- TODO: Emphesis scene with colour. -->
+
+<html>
+	<head>
+		<link rel="stylesheet" href="../../assets/css/book.css">
+	</head>
+	<body>
+
+    <div class="narration center">
+			<p>Here we go. No more terrible reader interpretations of tone, intonation and lexical stress. This is like how it used to be done. Traditional storytelling.</p>
+    </div>
+
+    <center>
+      <a id='aggressive' class='soundBtn' href="#"><img style='width:150px;' src="../../assets/img/emojis/megaphone.png" alt=""></a>
+    </center>
+
+    <div class="narration center">
+			<p>However traditional story telling was told over and over again … how will it sound this time round?</p>
+    </div>
+
+    <center>
+      <a id='calm' class='soundBtn' href="#"><img style='width:150px;' src="../../assets/img/emojis/megaphone.png" alt=""></a>
+    </center>
+
+    <div class="narration center">
+			<p>But this is not enough. This digital recording of the ‘correct’ intonation and tonal structures - as envisioned by the Author - will never live up to the fluidity of face-to-face narration. This static narrator can not respond to - as <em>David Herman</em>in <em>‘Towards Transmedial Narratology’</em> calls it: diverse inputs.</p>
+
+			<p>This narrator can not actively shape the narrative from questions from the Audience, interruptions, requests for explanations, laughter, facial expressions and ‘supportive vocalisations’. The Meaning, in face-to-face narration is, to an extent, created and supported by participants and listeners.</p>
+
+			<p>Meaning is lost!</p>
+
+			<p>As <em>William Labov</em> argues, narratives of the <em>‘Performantial Dimension’</em> and conversational storytelling are no less purposefully created than those of the written word.</p>
+
+			<p><em>Perhaps it is time to carve out the next path, to click the next button, to shape the story, dear Participant.</em></p>
+
+			<div class="choice_container">
+				<div class="choice center">
+					<a href="lexi_house.html"><img src="../../assets/img/emojis/cat.png"></a>
+				</div>
+			</div>
+    </div>
+
+		<div style='height:50px;'></div>
+
+  </div>
+
+
+	<!-- Insert this line above script imports  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+	<!-- MAIN SCRIPT  -->
+	<script src="../../assets/js/main.js"></script>
+	<!-- PAGE SPECIFIC SCRIPTS -->
+  <script type="text/javascript">
+
+		playPageTurn()
+
+    var aggressive = new Howl({
+      src: '../../assets/sounds/spoken_aggressive.mp3'
+    })
+
+    var calm = new Howl({
+      src: '../../assets/sounds/spoken_calm.mp3'
+    })
+
+    var playing_one = false;
+    var playing_two = false;
+
+    $('#aggressive').click(function(){
+
+      if (playing_one == false) {
+        aggressive.play()
+        playing_one = true
+      } else {
+        aggressive.stop()
+        playing_one = false
+      }
+    })
+
+    $('#calm').click(function(){
+
+      if (playing_two == false) {
+        calm.play()
+        playing_two = true
+      } else {
+        calm.stop()
+        playing_two = false
+      }
+    })
+
+
+  </script>
+
+	<!-- Insert this line after script imports -->
+	<script>if (window.module) module = window.module;</script>
+
+	</body>
+</html>

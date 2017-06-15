@@ -1,0 +1,126 @@
+<!-- TODO: Emphesis Scene -->
+<!-- TODO: Emphesis scene with speech -->
+<!-- TODO: Emphesis scene with colour. -->
+
+<html>
+	<head>
+		<link rel="stylesheet" href="../../assets/css/book.css">
+    <style media="screen">
+      .original {
+        opacity: 1;
+        transition: 0.2s;
+      }
+      .toSyl {
+        opacity: 1;
+        transition: 0.2s;
+        margin-top: -5px;
+      }
+      .hiddenSyl {
+        opacity: 0;
+        height: 0px;
+      }
+    </style>
+	</head>
+	<body>
+
+  <div class="container">
+
+    <center>
+      <div class="theSwitch">
+        <a style='cursor:pointer;' onclick="original()"><div class="switchItem">Original</div></a>
+    		<a style='cursor:pointer;' onclick="emphesiseMe()"><div class="switchItem">Syllables</div></a>
+      </div>
+    </center>
+
+		<div class="original">
+	    <p>Lexi. Morris knew it. Lexi had a thing for not following instructions. For not reading the lines carefully.</p>
+	    <p>Poorly interpreting the words on the IKEA instruction pamphlets. They’re not even words! They’re symbols! Does she not understand simple spatial reasoning? Morris takes a deep sigh. He looks back at Tank. He’ll have to deal with the dog later. Now is a much more important job. Dealing with Lexi. Expressing his pain to his ignorant girlfriend.</p>
+	    <p>He closes the door behind him as he heads down the fifty four stairs. Morris enters the shared garage and finds his car in lot thirty three. He unlocks the car, slumps into the front seat and turns the ignition.</p>
+	    <p>The engine revs, the car lurches forward and speeds out of the garage. Pedestrians leap out of the way as the car hurdles down Carlisle Street.</p>
+	    <p>Expressing his pain to his ignorant girlfriend.</p>
+	    <p>Expressing <em>his</em> pain to his ignorant girlfriend.</p>
+	    <p>What better way to express pain then through retribution. Make the perpetrator feel the crime. Make Lexi feel the consequence of her action.</p>
+	    <p>The car flies down the streets. A blur of violent red amongst a backdrop of luscious green foliage. </p>
+	    <p>Morris isn't going to speak to Lexi. </p>
+	    <p>Morris is going to <em>speak</em> to Lexi.</p>
+		</div>
+
+    <div class="toSyl hiddenSyl">
+	    <p>Lexi. Morris knew it. Lexi had a thing for not following instructions. For not reading the lines carefully.</p>
+	    <p>Poorly interpreting the words on the IKEA instruction pamphlets. They’re not even words! They’re symbols! Does she not understand simple spatial reasoning? Morris takes a deep sigh. He looks back at Tank. He’ll have to deal with the dog later. Now is a much more important job. Dealing with Lexi. Expressing his pain to his ignorant girlfriend.</p>
+	    <p>He closes the door behind him as he heads down the fifty four stairs. Morris enters the shared garage and finds his car in lot thirty three. He unlocks the car, slumps into the front seat and turns the ignition.</p>
+	    <p>The engine revs, the car lurches forward and speeds out of the garage. Pedestrians leap out of the way as the car hurdles down Carlisle Street.</p>
+	    <p>Expressing his pain to his ignorant girlfriend.</p>
+	    <p>Expressing <em>his</em> pain to his ignorant girlfriend.</p>
+	    <p>What better way to express pain then through retribution. Make the perpetrator feel the crime. Make Lexi feel the consequence of her action.</p>
+	    <p>The car flies down the streets. A blur of violent red amongst a backdrop of luscious green foliage. </p>
+	    <p>Morris isn't going to speak to Lexi. </p>
+	    <p>Morris is going to <em>speak</em> to Lexi.</p>
+		</div>
+
+    <div class="narration center">
+      <p>There we are! No room for interperative intonation and lexical stresses now! Ha! It does of course rely on the fact that they will pronounce the letters as show. That they know what to do. That they won't say "L dash E H dash K forward-slash". It still relys on a shared context. This will not do.</p>
+			<p>Perhaps it is time to carve out the next path, to click the next button, to shape the story, dear Participant.</p>
+			<div class="choice_container">
+				<div class="choice center">
+					<a href="lexi_house.html"><img src="../../assets/img/emojis/cat.png"></a>
+				</div>
+			</div>
+    </div>
+
+  </div>
+
+
+	<!-- Insert this line above script imports  -->
+	<script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+	<!-- MAIN SCRIPT  -->
+	<script src="../../assets/js/main.js"></script>
+	<!-- PAGE SPECIFIC SCRIPTS -->
+  <script src="../../assets/js/rita-full.min.js" charset="utf-8"></script>
+  <script type="text/javascript">
+
+		playPageTurn()
+
+    var done = false;
+
+		function emphesiseMe() {
+
+      $('.original').addClass('hiddenSyl')
+      $('.toSyl').removeClass('hiddenSyl')
+
+			console.log('DID IT 1!')
+
+      if (done == false) {
+
+        $('.toSyl').children().each(function(index){
+  				var pText = $(this).text()
+  				var pTextList = pText.split('     ')
+  				var newPList = []
+  				for (var i = 0; i < pTextList.length; i++){
+            newPList.push(RiTa.getSyllables(pTextList[i]))
+  				}
+
+  				$(this).html( newPList.join(' ') );
+  			})
+
+        done = true;
+      }
+
+		}
+
+    function original() {
+
+      console.log('DID IT 2!')
+
+      $('.toSyl').addClass('hiddenSyl')
+      $('.original').removeClass('hiddenSyl')
+    }
+
+  </script>
+
+	<!-- Insert this line after script imports -->
+	<script>if (window.module) module = window.module;</script>
+
+	</body>
+</html>

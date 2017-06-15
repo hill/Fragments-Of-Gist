@@ -28,6 +28,10 @@ Mousetrap.bind(['command+b', 'ctrl+b'], function() {
   window.history.back();
 });
 
+Mousetrap.bind(['command+t', 'ctrl+t'], function() {
+  console.log((Date.now() - localStorage.getItem('startTime')) / (1000*60))
+});
+
 var muted = false;
 Mousetrap.bind(['command+shift+m', 'ctrl+shift+m'], function(){
   if (!muted) {
@@ -43,7 +47,6 @@ Mousetrap.bind(['command+shift+m', 'ctrl+shift+m'], function(){
 const completeTime = 18 * 60 * 1000 // ms
 
 setInterval(function(){
-  //console.log((Date.now() - localStorage.getItem('startTime')) / (1000*60))
   if (Date.now() - localStorage.getItem('startTime') >= completeTime) {
     console.log('COMPLETED')
     location = remote.app.getAppPath() + '/pages/end.html'

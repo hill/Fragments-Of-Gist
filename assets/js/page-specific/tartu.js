@@ -64,6 +64,8 @@ function markovIt(displayElement) {
 
   $('.' + displayElement).append(element);
 
+
+
 }
 
 function unspecificMarkov() {

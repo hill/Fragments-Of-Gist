@@ -1,7 +1,7 @@
 {
-  "name": "theplatform",
-  "productName": "The Platform",
-  "version": "0.3.3",
+  "name": "fragmentsofgist",
+  "productName": "Fragments of Gist",
+  "version": "0.4.9",
   "description": "> My superb app",
   "license": "MIT",
   "repository": {
