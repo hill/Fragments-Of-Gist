@@ -26,7 +26,7 @@
 			<p style='text-align:center;'><em>Let's Rewrite</em></p>
 			<div class="choice_container">
 				<div class="choice center">
-					<a id="switch" style='cursor:pointer;'><img src="../../assets/img/emojis.gif" style='width:100px;' alt=""></a>
+					<a id="switch" href='scene_1.html' style='cursor:pointer;'><img src="../../assets/img/emojis.gif" style='width:100px;' alt=""></a>
 				</div>
 			</div>
     </div>
@@ -43,16 +43,16 @@
   <script type="text/javascript">
 		playPageTurn()
 
-		$('#switch').click(function(){
-			new Howl({
-				src: '../../assets/sounds/rip.mp3',
-				volume: 1.5,
-				onend: function() {
-					window.location = 'scene_1.html';
-					$('.blackout').addClass('fadeIn');
-				}
-			}).play()
-		})
+		// $('#switch').click(function(){
+		// 	new Howl({
+		// 		src: '../../assets/sounds/rip.mp3',
+		// 		volume: 1.5,
+		// 		onend: function() {
+		// 			window.location = 'scene_1.html';
+		// 			$('.blackout').addClass('fadeIn');
+		// 		}
+		// 	}).play()
+		// })
 
 
   </script>

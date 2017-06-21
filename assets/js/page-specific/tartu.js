@@ -72,7 +72,7 @@ function unspecificMarkov() {
 
   second_count += 1;
 
-  if (second_count >= 4 && $('#fader').val() == '1') {
+  if (second_count >= 4) {
     nextMsg('.showLaterOther');
   }
 
