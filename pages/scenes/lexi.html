@@ -13,7 +13,7 @@
 		<div class="conversation">
 			<p class='c_left'>“Lexi!”</p>
 			<p class='c_right'>“Morris?”</p>
-			<p class="c_right">“What are you doing here?”</p>
+			<p class="c_right"><span class='giflinked' data-src='../../assets/img/gestures.gif'>“What are you doing here?”</span></p>
 			<p class="c_left">“What are you doing here! We agreed we were weren’t going to buy the table”</p>
 			<p class="c_right">“Yes but look, the tables here are really just be....”</p>
 			<p class="c_left">“... ah, I don’t want to hear it. Do you know what you’ve done?!”</p>
@@ -64,9 +64,15 @@
 	<!-- MAIN SCRIPT  -->
 	<script src="../../assets/js/main.js"></script>
 	<!-- PAGE SPECIFIC SCRIPTS -->
+	<script src="../../assets/js/GifLinks.min.js" charset="utf-8"></script>
   <script type="text/javascript">
 
 		playPageTurn()
+
+		window.onload = function() {
+    	var element = document.querySelector( '.giflinked' );
+			GifLinks( element, { preload: true } );
+		}
 
   </script>
 

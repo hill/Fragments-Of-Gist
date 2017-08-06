@@ -408,4 +408,8 @@ body a {
   margin: 0 auto;
   min-height: 500px;
 }
+.giflink.preloaded {
+  transition: text-decoration 300ms;
+  text-decoration: underline;
+}
 /*# sourceMappingURL=book.css.map */

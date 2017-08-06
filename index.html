@@ -69,11 +69,20 @@
 		</div>
 
 		<script type="text/javascript">
+
+			try {
+				localStorage.removeItem('startTime');
+			} catch (e) {
+				console.log(e)
+			}
+
 			const project = require('./package.json')
 			const os = require('os')
 			const howler = require('howler')
 			console.log(project.version)
       console.log(os.release())
+
+
 
 			new Howl({
 			    src: ['assets/sounds/orchestra_warmup.mp3'],
