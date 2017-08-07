@@ -203,4 +203,10 @@
   background-color: #ECEFF1;
   transition: 0.2s;
 }
+.switchBGLight {
+  position: relative;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+}
 /*# sourceMappingURL=switch.css.map */

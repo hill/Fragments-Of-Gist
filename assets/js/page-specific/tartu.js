@@ -72,7 +72,7 @@ function unspecificMarkov() {
 
   second_count += 1;
 
-  if (second_count >= 4) {
+  if (second_count >= 3) {
     nextMsg('.showLaterOther');
   }
 

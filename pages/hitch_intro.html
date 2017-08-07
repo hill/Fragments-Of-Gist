@@ -110,6 +110,7 @@
 				<!-- <p class="fade"><a href="scenes/scene_1.html">There will be a switch here</a></p> -->
 				<section id="Wrapper" class="dark fade">
 				  <div class="switch switchLightOff">
+						
 				    <div class="hole holeLightOff">
 				      <div class="handle handleLightOff">
 				        <p>I<br /><span class="sk">O</span></p>
@@ -160,7 +161,7 @@
 					src: '../assets/sounds/switch.mp3',
 					volume: 0.8,
 					onend: function() {
-			      window.location = 'scenes/scene_1.html';
+			      window.location = 'scenes/scene_1.html'; // TODO: Ensure this doesn't fuck it up
 			    }
 				}).play()
 

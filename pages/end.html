@@ -115,15 +115,10 @@
   <script type="text/javascript">
     var rellax = new Rellax('.rellax')
 
-    // new ScrollMagic.Scene({
-    //   triggerElement: '.parallax',
-    //   triggerHook: 0.4
-    // })
-    // .on("enter", function(){
-    //   $('.parallax').removeClass('hide-for-parallax')
-    // })
-    // .addIndicators()
-    // .addTo(controller)
+		new Howl({
+			src: '../assets/sounds/Hitchcock_presents.mp3',
+			volume: 0.8,
+		}).play()
 
     new ScrollMagic.Scene({
       triggerElement: '#final',
