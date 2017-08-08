@@ -103,3 +103,13 @@ $(window).scroll(function(){
 })
 
 $('.container').removeClass('out');
+
+// check if scene is completed in localStorage
+// TODO: Check if scenename is actually available at all (hitchcock intro)
+if (localStorage.getItem(sceneName)) {
+  // if this scene is completed, append a notification to start of sections, asking if they would like to skip.
+  console.log('SCENE IS COMPLETED')
+} else {
+  // if not, set scene as completed once seen
+  localStorage.setItem(sceneName, true)
+}

@@ -72,11 +72,16 @@
 
 		<script type="text/javascript">
 
+
+			// Ensure time is removed from previous runs
 			try {
 				localStorage.removeItem('startTime');
 			} catch (e) {
 				console.log(e)
 			}
+
+			// Erase entire localStorage cache
+			localStorage.clear()
 
 			const project = require('./package.json')
 			const os = require('os')
