@@ -34,8 +34,8 @@ function markovIt(displayElement) {
   count += 1;
   console.log(count);
 
-  if (count == 5) {
-    console.log('Called at five')
+  if (count == 3) {
+    console.log('Called at three')
     nextMsg('.showLater');
   }
 
