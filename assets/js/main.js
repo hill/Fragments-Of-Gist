@@ -10,28 +10,35 @@ const Mousetrap = require('mousetrap');
 require('electron').webFrame.setZoomLevelLimits(1, 1);
 
 // Shortcuts
+
+// Escape from full-screen mode [esc]
 Mousetrap.bind(['esc'], function() {
   if (remote.getCurrentWindow().isFullScreen()) {
       remote.getCurrentWindow().setFullScreen(false);
   }
 });
 
+// Go to end [cmd-e]
 Mousetrap.bind(['command+e', 'ctrl+e'], function() {
   location = remote.app.getAppPath() + '/pages/end.html';
 });
 
+// Go to start [cmd-g]
 Mousetrap.bind(['command+g', 'ctrl+g'], function() {
   location = remote.app.getAppPath() + '/index.html';
 });
 
+// Go back 1 scene [cmd-b]
 Mousetrap.bind(['command+b', 'ctrl+b'], function() {
   window.history.back();
 });
 
+// get time in console [cmd-t] DEBUG
 Mousetrap.bind(['command+t', 'ctrl+t'], function() {
   console.log((Date.now() - localStorage.getItem('startTime')) / (1000*60))
 });
 
+// mute [cmd-shift-m]
 var muted = false;
 Mousetrap.bind(['command+shift+m', 'ctrl+shift+m'], function(){
   if (!muted) {
@@ -42,6 +49,8 @@ Mousetrap.bind(['command+shift+m', 'ctrl+shift+m'], function(){
     muted = false
   }
 })
+
+// ------- //
 
 // Change to final scene if time = 18 minutes
 const completeTime = 18 * 60 * 1000 // ms

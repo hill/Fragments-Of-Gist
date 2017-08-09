@@ -140,6 +140,7 @@
 	$(function() {
 		$('.switch').click(function() {
 			if( $(".switch").hasClass("switchLightOff") ) {
+
 				$(".switch").removeClass("switchLightOff"),
 				$(".switch").addClass("switchLightOn"),
 				$("#Wrapper").removeClass("dark"),
@@ -167,6 +168,7 @@
 
 
 			} else {
+
 				$(".switch").addClass("switchLightOff"),
 				$("#Wrapper").addClass("dark"),
 				$(".hole").removeClass("holeLightOn"),
@@ -178,6 +180,7 @@
 				$(".handleTop").addClass("handleTopLightOff"),
 				$(".handleBottom").removeClass("handleBottomLightOn"),
 				$(".handleBottom").addClass("handleBottomLightOff");
+				
 			}
 		});
 	});
