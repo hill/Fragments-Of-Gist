@@ -81,3 +81,5 @@ function getGreetingTime (m) {
 }
 
 $(".time").text(getGreetingTime(Moment()))
+$(".time-day").text(Moment().format('dddd'))
+$(".time-year").text(Moment().format('YYYY'))

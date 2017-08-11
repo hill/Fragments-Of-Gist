@@ -28,7 +28,7 @@ Mousetrap.bind(['command+g', 'ctrl+g'], function() {
   location = remote.app.getAppPath() + '/index.html';
 });
 
-// Go back 1 scene [cmd-b]
+// Go back one scene [cmd-b]
 Mousetrap.bind(['command+b', 'ctrl+b'], function() {
   window.history.back();
 });

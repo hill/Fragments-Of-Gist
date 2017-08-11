@@ -1,7 +1,7 @@
 {
   "name": "fragmentsofgist",
   "productName": "Fragments of Gist",
-  "version": "0.4.9",
+  "version": "1.0.0",
   "description": "> My superb app",
   "license": "MIT",
   "repository": {
@@ -12,7 +12,9 @@
   "scripts": {
     "test": "xo",
     "start": "electron .",
-    "build": "electron-packager . --out=dist --asar --overwrite --all"
+    "build": "electron-packager . --out=dist --asar --overwrite --all",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds-new",
+    "package-win": "electron-packager . --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds-new --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Fragments of Gist\""
   },
   "dependencies": {
     "electron-debug": "^1.0.0",
@@ -26,7 +28,7 @@
   "devDependencies": {
     "devtron": "^1.1.0",
     "electron": "^1.6.10",
-    "electron-packager": "^8.0.0",
+    "electron-packager": "^8.7.2",
     "xo": "^0.18.0"
   },
   "xo": {
