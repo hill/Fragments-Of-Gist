@@ -60,3 +60,4 @@ typings/
 dist/
 
 *.codekit3
+config.codekit3
