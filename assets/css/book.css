@@ -288,9 +288,6 @@ body a {
   max-width: 600px;
   background: black;
   border-radius: 4px;
-  -webkit-animation-name: floating;
-  -webkit-animation-duration: 1.8s;
-  -webkit-animation-iteration-count: infinite;
   transition: 2s;
 }
 .narration p,
@@ -303,6 +300,11 @@ body a {
 .narration p,
 .narration a {
   font-size: 20px;
+}
+.narration:hover {
+  -webkit-animation-name: floating;
+  -webkit-animation-duration: 1.8s;
+  -webkit-animation-iteration-count: infinite;
 }
 .right {
   margin-right: 30px;
