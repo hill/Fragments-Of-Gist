@@ -10,6 +10,6 @@ navigator.webkitGetUserMedia({video: true},
 );
 
 new Howl({
-    src: ['../assets/sounds/orchestra_warmup.mp3'],
+    src: ['../assets/sounds/psycho-theme.mp3'],
     volume: 0.4,
 }).play();

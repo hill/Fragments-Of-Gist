@@ -1252,6 +1252,12 @@
 		"oAP": "\/assets\/sounds\/pen_scratch\/pen_scratch_5.mp3",
 		"oF": 0
 		},
+	"\/assets\/sounds\/psycho-theme.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/psycho-theme.mp3",
+		"oF": 0
+		},
 	"\/assets\/sounds\/rip.mp3": {
 		"ft": 8192,
 		"oA": 2,

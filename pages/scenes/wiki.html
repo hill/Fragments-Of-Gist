@@ -30,7 +30,7 @@ font-size: 0.75em;
 color: #707070;
 display: inline;
 }
-.head .personal-nav .blued {
+.blued {
 color: #0645AD;
 }
 .content {
@@ -148,7 +148,7 @@ color: #0645AD;
   <div class="content">
     <h1>The Sydney Cat Massacre</h1>
     <p>From Wikipedia, the free encyclopedia</p>
-    <p contenteditable="true">In the formal languages of computer science and linguistics, the Chomsky hierarchy (occasionally referred to as Chomsky–Schützenberger hierarchy) is a containment hierarchy of classes of formal grammars. This hierarchy of grammars was described by Noam Chomsky in 1956.[1] It is also named after Marcel-Paul Schützenberger, who played a crucial role in the development of the theory of formal languages.</p>
+    <p contenteditable="true">The Sydney Cat Massacre was a slaughter of 6,000 <span class="blued">domestic cats</span> in the <span class="blued">Homebush</span> region and surrounding areas. The massacre was a crude attempt at revenge by office worker Morris Moresly. Moresly rapidly attacked the cats on <span class='date'>4th of November, 2017</span></p>
     <div class='contentsBox'>
       <h3>Contents</h3>
       <ol>
@@ -167,7 +167,9 @@ color: #0645AD;
 	<!-- PAGE SPECIFIC SCRIPTS -->
   <script type="text/javascript">
 
-		playPageTurn()
+		playPageTurn();
+
+    $(".date").text(Moment().format('dddd, MMMM Do YYYY'))
 
   </script>
 
