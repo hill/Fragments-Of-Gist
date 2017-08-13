@@ -29,7 +29,7 @@ html,body {
   }
   border-radius: 4px;
   transition: 2s;
-  
+
   &:hover {
     -webkit-animation-name: floating;
     -webkit-animation-duration: 1.8s;
@@ -165,4 +165,32 @@ html,body {
 .giflink.preloaded {
 	transition: text-decoration 300ms;
 	text-decoration: underline;
+}
+
+.theSwitch {
+
+  width: 300px;
+  //border: #000 solid 1px;
+
+  .item {
+    border: 1px solid #000;
+    width: 148px;
+    margin-bottom: 50px;
+    &:hover {
+      background-color: #000;
+      color: #fff;
+    }
+  }
+
+  .switch_left {
+    float: left;
+  }
+  .switch_right {
+    float: right;
+  }
+  a {
+    &:hover {
+      color: white;
+    }
+  }
 }

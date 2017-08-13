@@ -421,4 +421,25 @@ body a {
   transition: text-decoration 300ms;
   text-decoration: underline;
 }
+.theSwitch {
+  width: 300px;
+}
+.theSwitch .item {
+  border: 1px solid #000;
+  width: 148px;
+  margin-bottom: 50px;
+}
+.theSwitch .item:hover {
+  background-color: #000;
+  color: #fff;
+}
+.theSwitch .switch_left {
+  float: left;
+}
+.theSwitch .switch_right {
+  float: right;
+}
+.theSwitch a:hover {
+  color: white;
+}
 /*# sourceMappingURL=book.css.map */
