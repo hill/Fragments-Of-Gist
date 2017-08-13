@@ -13,6 +13,7 @@
   height: 200px;
   border-radius: 12px;
   cursor: pointer;
+  margin-top: 290px;
 }
 #Wrapper .hole {
   position: relative;
@@ -203,10 +204,11 @@
   background-color: #ECEFF1;
   transition: 0.2s;
 }
-.switchBGLight {
-  position: relative;
-  background-color: white;
-  width: 200px;
-  height: 200px;
+.switch_bg {
+  background-color: #000;
+  background-image: repeating-radial-gradient(ellipse farthest-corner at center center, #747474 0%, #000000 55%, #000000 100%);
+}
+.remove {
+  opacity: 0;
 }
 /*# sourceMappingURL=switch.css.map */

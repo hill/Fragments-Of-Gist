@@ -6,7 +6,7 @@
 	<body>
 
 		<center>
-			<img class='emoji' src="../assets/img/hitchcock_logo.svg">
+			<img class='emoji' src="../assets/img/hitchcock_logo_new.svg">
 		</center>
 
 		<div class="scrolldown">
@@ -90,9 +90,9 @@
 		      <p></p>
 		    </div>
 		  </div> -->
-				<section id="Wrapper" class="dark fade">
-				  <div class="switch switchLightOff">
 
+			<section id="Wrapper" class="dark fade switch_bg">
+				  <div class="switch switchLightOff">
 				    <div class="hole holeLightOff">
 				      <div class="handle handleLightOff">
 				        <p>I<br /><span class="sk">O</span></p>
@@ -100,8 +100,10 @@
 				        <div class="handleBottom handleBottomLightOff"></div>
 				      </div>
 				    </div>
-  				</div>
-				</section>
+					</div>
+			</section>
+
+
 			<div style='height: 50px;'></div>
 		  <p class="">...Alternatively you could just keep scrolling. I mean, that's fine, I guess. YOU'RE IN CONTROL!</p>
 			<div style='height: 130px;'></div>
@@ -138,6 +140,7 @@
 
 				// Do when switch clicks
 				$("html").addClass("whiteBG");
+				$('.switch_bg').css("background-image", "repeating-radial-gradient(ellipse farthest-corner at center center,#ECEFF1 0%,#ECEFF1 55%, #ECEFF1 100%)");
 				hitchcock.stop();
 
 				new Howl({
