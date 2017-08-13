@@ -124,6 +124,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/assets\/css\/index.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/index.css.map",
+		"oF": 0
+		},
 	"\/assets\/css\/index.less": {
 		"aP": 0,
 		"bl": 0,
@@ -190,6 +196,12 @@
 		"sI": 0,
 		"sM": 0,
 		"sU": 0
+		},
+	"\/assets\/fonts\/Einstein\/AlbertEinstein-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Einstein\/AlbertEinstein-Regular.ttf",
+		"oF": 0
 		},
 	"\/assets\/fonts\/Fanwood\/fanwood-webfont.eot": {
 		"ft": 8192,

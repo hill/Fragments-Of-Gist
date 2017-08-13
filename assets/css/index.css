@@ -20,6 +20,10 @@
   /* Legacy iOS */
   font-style: italic;
 }
+@font-face {
+  font-family: 'Einstein';
+  src: url('../fonts/Einstein/AlbertEinstein-Regular.ttf') format('truetype');
+}
 html {
   background: #000;
 }
@@ -347,5 +351,28 @@ p {
 }
 .button:hover P {
   color: black;
+}
+.page {
+  box-shadow: 0 18px 35px rgba(50, 50, 93, 0.1), 0 8px 15px rgba(0, 0, 0, 0.07);
+  margin: 40px auto 0 auto;
+  max-width: 600px;
+  background: #DBD4C7;
+  border-radius: 4px;
+  transition: 2s;
+}
+.page p,
+.page a,
+.page h1,
+.page h2 {
+  padding: 10px 20px;
+  color: black;
+  font-family: 'Einstein';
+}
+.page p,
+.page a {
+  font-size: 20px;
+}
+.page:focus {
+  outline: none;
 }
 /*# sourceMappingURL=index.css.map */
