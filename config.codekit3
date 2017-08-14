@@ -197,6 +197,39 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/assets\/css\/wiki.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/wiki-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/wiki.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/wiki.css.map",
+		"oF": 0
+		},
+	"\/assets\/css\/wiki.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/assets\/css\/wiki.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
 	"\/assets\/fonts\/Einstein\/AlbertEinstein-Regular.ttf": {
 		"ft": 8192,
 		"oA": 2,
@@ -1007,6 +1040,36 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/twitter-egg.jpg": {
+		"ft": 16384,
+		"iS": 3723,
+		"oA": 0,
+		"oAP": "\/assets\/img\/twitter-egg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/twitterface1.jpg": {
+		"ft": 16384,
+		"iS": 3849,
+		"oA": 0,
+		"oAP": "\/assets\/img\/twitterface1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/twitterface2.jpg": {
+		"ft": 16384,
+		"iS": 5812,
+		"oA": 0,
+		"oAP": "\/assets\/img\/twitterface2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/whitenoise-opaque.png": {
