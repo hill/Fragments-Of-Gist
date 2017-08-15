@@ -125,7 +125,7 @@ if (localStorage.getItem(sceneName)) {
 }
 
 function showSkip(buttons) {
-  var the_body = "<div class='skip_dialogue narration'><p>Oh, It seems like you've alread read this part of my magnificent fiction.</p><p>I know how awfully deprived you people are of attention these days, so why don't we continue on the story. Unless, of course, you would like to read on?</p><div class='choice_container'>" + buttons + "</div></div>"
+  var the_body = "<div class='skip_dialogue narration'><p>Oh, It seems like you've alread read this part of my magnificent fiction...</p><div class='choice_container'>" + buttons + "</div></div>"
 
   $('.container').prepend(the_body);
 

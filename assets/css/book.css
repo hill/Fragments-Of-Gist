@@ -442,4 +442,8 @@ body a {
 .theSwitch a:hover {
   color: white;
 }
+.bgImg {
+  position: absolute;
+  left: 30%;
+}
 /*# sourceMappingURL=book.css.map */
