@@ -1558,6 +1558,12 @@
 		"oAP": "\/build\/node_modules",
 		"oF": 0
 		},
+	"\/other-shit.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/other-shit.txt",
+		"oF": 0
+		},
 	"\/package-lock.json": {
 		"ft": 524288,
 		"oA": 1,

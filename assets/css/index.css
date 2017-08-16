@@ -342,7 +342,7 @@ p {
 .button p {
   color: white;
   text-decoration: none;
-  margin: 0;
+  margin: 0 auto;
   line-height: 50px;
 }
 .button:hover {
