@@ -4,6 +4,7 @@
 html,body {
   background: #DBD4C7;
   h1,h2,h3,h4,h5,h6,p,a {
+    z-index: 10;
     color: black;
   }
   p,a {
@@ -13,9 +14,11 @@ html,body {
 
 .container {
   margin-bottom: 100px;
+  background: none;
 }
 
 .narration {
+
   box-shadow: 0 18px 35px rgba(50,50,93,.1), 0 8px 15px rgba(0,0,0,.07);
   margin: 40px auto 0 auto;
   max-width: 600px;
@@ -35,6 +38,7 @@ html,body {
     -webkit-animation-duration: 1.8s;
     -webkit-animation-iteration-count: infinite;
   }
+  z-index: 100;
 }
 
 .right {
@@ -61,6 +65,7 @@ html,body {
 }
 
 .choice_container {
+  z-index: 10;
   width: 100%;
   .choice {
     width: 50%;
@@ -88,6 +93,7 @@ html,body {
 }
 
 .conversation {
+  z-index: 10;
   p {
     font-style: italic;
   }
@@ -105,6 +111,7 @@ html,body {
 }
 
 .button {
+  z-index: 10;
   border: 1px solid black;
   max-width: 300px;
   text-align: center;
@@ -146,6 +153,7 @@ html,body {
 }
 
 #legalText {
+  z-index: 10;
   width: 80%;
   margin: 0 auto;
   padding: 10px;
@@ -155,6 +163,7 @@ html,body {
 }
 
 #output {
+  z-index: 10;
   color: black;
   font-size: 20px;
   width: 80%;
@@ -163,12 +172,13 @@ html,body {
 }
 
 .giflink.preloaded {
+  z-index: 100;
 	transition: text-decoration 300ms;
 	text-decoration: underline;
 }
 
 .theSwitch {
-
+  z-index: 10;
   width: 300px;
   //border: #000 solid 1px;
 
@@ -196,7 +206,7 @@ html,body {
 }
 
 .bgImg {
-  //z-index: -1;
-  position: absolute;
-  left: 30%;
+  z-index: 0;
+  max-width: 90%;
+  position: fixed;
 }

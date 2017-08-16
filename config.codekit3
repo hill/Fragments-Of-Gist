@@ -988,168 +988,77 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/jason-sketches\/ball.jpg": {
-		"ft": 16384,
-		"iS": 202520,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/ball.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/ball.png": {
+	"\/assets\/img\/jason-png-sketches\/ball.png": {
 		"ft": 32768,
-		"iS": 160011,
+		"iS": 162500,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/ball.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/ball.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/jason-sketches\/brik.jpg": {
-		"ft": 16384,
-		"iS": 417289,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/brik.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/brik.png": {
+	"\/assets\/img\/jason-png-sketches\/box.png": {
 		"ft": 32768,
-		"iS": 457982,
+		"iS": 424734,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/brik.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/box.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/jason-sketches\/cat.jpg": {
-		"ft": 16384,
-		"iS": 245354,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/cat.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/cat.png": {
+	"\/assets\/img\/jason-png-sketches\/brick.png": {
 		"ft": 32768,
-		"iS": 233553,
+		"iS": 453035,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/cat.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/brick.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/jason-sketches\/cat.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/jason-sketches\/cat.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/img\/jason-sketches\/cat_trans.png": {
+	"\/assets\/img\/jason-png-sketches\/cat.png": {
 		"ft": 32768,
-		"iS": 174894,
+		"iS": 317762,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/cat_trans.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/jason-sketches\/glass.jpg": {
-		"ft": 16384,
-		"iS": 154131,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/glass.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/glass.png": {
+	"\/assets\/img\/jason-png-sketches\/glasses.png": {
 		"ft": 32768,
-		"iS": 98380,
+		"iS": 98055,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/glass.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/glasses.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/jason-sketches\/light.jpg": {
-		"ft": 16384,
-		"iS": 290742,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/light.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/light.png": {
+	"\/assets\/img\/jason-png-sketches\/judge.png": {
 		"ft": 32768,
-		"iS": 295276,
+		"iS": 228002,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/light.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/judge.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/jason-sketches\/pak.jpg": {
-		"ft": 16384,
-		"iS": 396537,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/pak.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/pak.png": {
+	"\/assets\/img\/jason-png-sketches\/light.png": {
 		"ft": 32768,
-		"iS": 424067,
+		"iS": 303506,
 		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/pak.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/wig.jpg": {
-		"ft": 16384,
-		"iS": 254966,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/wig.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/jason-sketches\/wig.png": {
-		"ft": 32768,
-		"iS": 219419,
-		"oA": 0,
-		"oAP": "\/assets\/img\/jason-sketches\/wig.png",
+		"oAP": "\/assets\/img\/jason-png-sketches\/light.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1445,6 +1354,18 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sounds\/Hitchcock_presents.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/narration_1.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/narration_1.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/narration_2.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/narration_2.mp3",
 		"oF": 0
 		},
 	"\/assets\/sounds\/orchestra_warmup.mp3": {
