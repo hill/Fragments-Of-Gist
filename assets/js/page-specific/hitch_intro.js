@@ -16,18 +16,6 @@ var chorale = new Howl({
   src: ['../assets/sounds/chorale.mp3']
 })
 
-// new ScrollMagic.Scene({
-//   triggerElement: '.trigger-ambient'
-// })
-// .on('enter', function(){
-//   console.log('PLAYED HITCHCOCK THEME')
-//   if (playing == false) {
-//     hitchcock.play()
-//   }
-// })
-// //.addIndicators()
-// .addTo(controller)
-
 hitchcock.play()
 
 new ScrollMagic.Scene({
