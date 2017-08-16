@@ -368,6 +368,12 @@ p {
   color: black;
   font-family: 'Einstein';
 }
+.page p:focus,
+.page a:focus,
+.page h1:focus,
+.page h2:focus {
+  outline: none;
+}
 .page p,
 .page a {
   font-size: 20px;
