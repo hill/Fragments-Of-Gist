@@ -12,7 +12,7 @@ navigator.webkitGetUserMedia({video: true},
 
 new Howl({
     src: ['../assets/sounds/psycho-theme.mp3'],
-    volume: 0.9,
+    volume: 1.1,
     loop: true,
 }).play();
 

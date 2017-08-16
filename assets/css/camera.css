@@ -158,4 +158,14 @@ video {
   opacity: 1;
   -webkit-animation: fadeinout 10s infinite alternate;
 }
+.center_text {
+  z-index: 10;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  color: #fff;
+  text-align: center;
+}
 /*# sourceMappingURL=camera.css.map */
