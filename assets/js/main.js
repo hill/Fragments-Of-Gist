@@ -107,9 +107,9 @@ $(".fade").each(function(){
 
 // remove scroll hint on scroll
 
-$(window).scroll(function(){
-  $('.scrolldown').addClass('hide');
-})
+// $(window).scroll(function(){
+//   $('.scrolldown').addClass('hide');
+// })
 
 $('.container').removeClass('out');
 

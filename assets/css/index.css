@@ -287,7 +287,7 @@ p {
   margin-top: 20px;
 }
 .scrolldown {
-  position: absolute;
+  position: fixed;
   bottom: 30px;
   left: 0;
   right: 0;

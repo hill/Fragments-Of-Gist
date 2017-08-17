@@ -1040,6 +1040,90 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/jason-png-sketches\/cat1.jpeg": {
+		"ft": 16384,
+		"iS": 105464,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat1.png": {
+		"ft": 32768,
+		"iS": 295386,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat2.jpeg": {
+		"ft": 16384,
+		"iS": 112910,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat2.png": {
+		"ft": 32768,
+		"iS": 301306,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat3.jpeg": {
+		"ft": 16384,
+		"iS": 108850,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat3.png": {
+		"ft": 32768,
+		"iS": 306012,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat4.jpeg": {
+		"ft": 16384,
+		"iS": 85052,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/jason-png-sketches\/cat4.png": {
+		"ft": 32768,
+		"iS": 298709,
+		"oA": 0,
+		"oAP": "\/assets\/img\/jason-png-sketches\/cat4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/jason-png-sketches\/glasses.png": {
 		"ft": 32768,
 		"iS": 98055,
