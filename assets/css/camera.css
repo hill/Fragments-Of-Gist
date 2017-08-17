@@ -5,12 +5,14 @@ video {
   width: 100%;
   margin: 0;
   background-color: black;
-  overflow: hidden;
 }
 video {
   object-fit: cover;
   width: 100vw;
   height: 100vh;
+}
+#camera {
+  object-fit: cover;
   position: absolute;
   top: 0;
   left: 0;
@@ -61,7 +63,7 @@ video {
   }
   20% {
     height: 217px;
-    top: 63%;
+    top: 60%;
     opacity: 0.08;
   }
   30% {
@@ -71,7 +73,7 @@ video {
   }
   40% {
     height: 282px;
-    top: 70%;
+    top: 60%;
     opacity: 0.35;
   }
   50% {
@@ -86,7 +88,7 @@ video {
   }
   70% {
     height: 255px;
-    top: 80%;
+    top: 50%;
     opacity: 0.07;
   }
   80% {
@@ -119,42 +121,34 @@ video {
   right: 0;
   bottom: 0;
   color: #fff;
+  background-color: #222;
   text-align: center;
   text-transform: uppercase;
   opacity: 0.8;
   font: 35px "Roboto", helvetica, sans-serif;
   font-font-weight: 100;
   letter-spacing: 0.3em;
-  background-image: url('../img/whitenoise-trans.png');
   text-shadow: 2px 0 1px #f6050a, -2px 0 1px #1cf2f2;
-  -webkit-animation: noise 0.3s infinite;
 }
-.glitch:before {
-  content: "";
+span.title {
   display: inline-block;
   vertical-align: middle;
-  height: 100%;
-}
-.glitch:after {
-  content: "";
-  display: block;
-  position: absolute;
-  left: 0;
-  right: 0;
-  background: url('../img/whitenoise-opaque50.png');
-  -webkit-animation: bar 0.5s infinite;
-}
-.glitch span {
-  display: inline-block;
-  vertical-align: middle;
-  position: relative;
-  z-index: 1;
+  position: fixed;
+  z-index: 100;
+  top: 45%;
+  left: 25%;
   -webkit-animation: glitch 3s infinite alternate;
+  text-shadow: 2px 0 1px #f6050a, -2px 0 1px #1cf2f2;
+  font: 35px "Roboto", helvetica, sans-serif;
+  font-font-weight: 100;
+  letter-spacing: 0.3em;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
 }
 .hitch_logo {
-  position: absolute;
   z-index: 50;
-  margin: 20vh 30%;
+  margin: 20vh 30% 30px 30%;
   opacity: 1;
   -webkit-animation: fadeinout 10s infinite alternate;
 }
@@ -167,5 +161,22 @@ video {
   bottom: 0;
   color: #fff;
   text-align: center;
+}
+.button {
+  border: 1px solid white;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  margin: 50px auto;
+  transition: 0.5s;
+}
+.button:hover {
+  background-color: white;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: white;
 }
 /*# sourceMappingURL=camera.css.map */

@@ -1167,6 +1167,12 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/img\/stab.mp4": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/img\/stab.mp4",
+		"oF": 0
+		},
 	"\/assets\/img\/tartu_card.png": {
 		"ft": 32768,
 		"iS": 101424,
@@ -1448,18 +1454,6 @@
 		"oAP": "\/assets\/sounds\/Hitchcock_presents.mp3",
 		"oF": 0
 		},
-	"\/assets\/sounds\/narration_1.mp3": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/sounds\/narration_1.mp3",
-		"oF": 0
-		},
-	"\/assets\/sounds\/narration_2.mp3": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/sounds\/narration_2.mp3",
-		"oF": 0
-		},
 	"\/assets\/sounds\/orchestra_warmup.mp3": {
 		"ft": 8192,
 		"oA": 2,
@@ -1524,6 +1518,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/sounds\/rip.mp3",
+		"oF": 0
+		},
+	"\/assets\/sounds\/shower.mp3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/sounds\/shower.mp3",
 		"oF": 0
 		},
 	"\/assets\/sounds\/spoken_aggressive.mp3": {

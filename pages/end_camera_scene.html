@@ -9,14 +9,26 @@
   </head>
   <body>
 
-    <div class="glitch"><span>WHO HAS REALLY DIED?</span></div>
-    <!-- <div class="center_text">
-      <img src="../assets/img/dontdoslow.gif">
-    </div> -->
+<section class='face' style='height:100vh;'>
+  <div class="glitch"></div>
+  <span class='title'>WHO REALLY DIED?</span>
+  <video id="camera" autoplay></video>
+  <canvas id="c" style="display:none;" width="100vw" height="100vh"></canvas>
+</section>
+<div id="psy">
+  <section class='psycho' style='height: 100vh; z-index:100;'>
+  <video src="../assets/img/stab.mp4" autoplay muted loop width="100vw" height="100vh"></video>
+  </section>
+  <section class='alfie' style='height: 100vh'>
     <div class="img-container" style='width: 100%;'>
       <img class='hitch_logo' src="../assets/img/hitchcock_logo_new.svg">
     </div>
-    <video id="camera" autoplay> </video>
-    <canvas id="c" style="display:none;" width="100vw" height="100vh"></canvas>
+    <a href="../index.html">
+      <div class="button">finish</div>
+    </a>
+  </section>
+</div>
+
+
   </body>
 </html>
