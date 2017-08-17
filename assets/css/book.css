@@ -308,11 +308,6 @@ body a {
 .narration a {
   font-size: 20px;
 }
-.narration:hover {
-  -webkit-animation-name: floating;
-  -webkit-animation-duration: 1.8s;
-  -webkit-animation-iteration-count: infinite;
-}
 .right {
   margin-right: 30px;
   margin-left: auto;
@@ -336,6 +331,7 @@ body a {
   width: 100%;
 }
 .choice_container .choice {
+  margin-bottom: 30px;
   width: 50%;
   text-align: center;
   display: inline-block;
