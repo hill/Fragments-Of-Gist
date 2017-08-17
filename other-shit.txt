@@ -85,3 +85,22 @@
   <p class="fade">Perhaps it's time to turn the spot light back on.</p>
   <div style='height:100px'></div>
 </div> -->
+
+
+
+<div style='height:50px;'></div>
+<p class='fade'>A story of such grandeur deserves an equally fitting title. A first impression for my reader to peruse over. A first glimpse at meaning.</p>
+<p class="fade">I think I shall call it:</p>
+<center>
+  <h2 class='fade'><em>Morris: A life and times</em></h2>
+</center>
+<p class="fade">No. Far too vague. How about this:</p>
+<center>
+  <h2 class='fade'><em>The Story of Morris, Lexi, A Dog Named Tank and Their Fantastic Adventure of IKEA Furniture, Loose Screws and Dead Pets.</em></h2>
+</center>
+<p class="fade">Nothing up to interpretation now! They’ll get the gist straight away. But perhaps it uses a little too much ink. Let’s truncate it:</p>
+<center>
+  <h2 class='fade'><em>The Story of Morris.</em></h2>
+</center>
+<p class="fade">Perfect.</p>
+<div style='height:150px;'></div>
