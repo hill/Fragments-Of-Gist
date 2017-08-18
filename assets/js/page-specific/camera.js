@@ -56,6 +56,7 @@ new ScrollMagic.Scene({
   shower.fade(0,0.8,1000);
   //chorale.stop();
   psycho.fade(1, 0, 1000);
+  psycho.stop();
 })
 //.addIndicators()
 .addTo(controller)
